@@ -5,19 +5,19 @@
 https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
 ## Author: JF Giraud eng.
 ## Contacts: 
---isogolf@gmail.com 
---https://twitter.com/8289468
---linkedin.com/in/jfgiraudengineer
---https://sites.google.com/site/8289468canadainc
---
--BTC 
--LTC
--DASH
--ETH
+- isogolf@gmail.com 
+- https://twitter.com/8289468
+- linkedin.com/in/jfgiraudengineer
+- https://sites.google.com/site/8289468canadainc
+
+- BTC 
+- LTC
+- DASH
+- ETH
 
 # Definitions and acronyms: 
-*Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc. 
-*P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database) 
+- Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc. 
+- P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database) 
 
 # Disclaimer: 
 This is not financial advice (no warranty). It is an analysis of the risks and opportunities of CC.
@@ -26,11 +26,11 @@ CC is a fast changing environment some information herein may have changed since
 # FAQ (Frequently Asked Questions)
 
 ## 1- What is money? 
-. It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example: 
--IF a group of individuals wants to barter together and they agree that 10fish=1chicken 
--AND 1fish=1seashell (for convenience 1fish can be represented by 1seashell)
--THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.
--(1) Even children often develop their own money to exchange things with each other (marbles, candy, etc.)
+- It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example: 
+- IF a group of individuals wants to barter together and they agree that 10fish=1chicken 
+- AND 1fish=1seashell (for convenience 1fish can be represented by 1seashell)
+- THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.
+- (1) Even children often develop their own money to exchange things with each other (marbles, candy, etc.)
 
 ## 2- What are the problems with modern money?
 2.1 With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their self-serving best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).
@@ -55,7 +55,7 @@ These practices included commercial banks engaging in investments banking which 
 
 ## 6- How can it be safely stored? 
 6.1 From the safest to least safe: 
-6.1.1Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software)   
+6.1.1 Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software)   
 6.2 Cold electronic wallet, Smartphone wallet, online wallet, exchange 
 
 ## 7- What is a CC wallet? 
@@ -96,27 +96,27 @@ This is a simple option but you can make your own public and private keys compat
 9.2 scan the balance of your private key into your account or 
 9.3 store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later.
 
-## - REFERENCES
+## REFERENCES
 - (1) bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).
 - (2) https://github.com/bitaddress/bitaddress (a non GUI alternative to (1))
 
-## - APPENDIX
--BUY SELL TRADE CRYPTOCURENCIES IN CANADA
--ID,COMPANY,FEES%,NOTES
--KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense) 
--CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC)
--BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%)
--KU,Kucoin,note,low fees
--LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices)
--QU,Quadriga,1.5-5,complex,security concerns Canadian Company 
+## APPENDIX
+- BUY SELL TRADE CRYPTOCURENCIES IN CANADA
+- ID,COMPANY,FEES%,NOTES
+- KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense) 
+- CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC)
+- BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%)
+- KU,Kucoin,note,low fees
+- LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices)
+- QU,Quadriga,1.5-5,complex,security concerns Canadian Company 
 
 ## NOTES-TIPS-LL(Lessons Learned)
--Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io)
--Always Transfer funds to cold wallets
--Beware of scams verify validate companies background and transfer funds to cold wallet.
--CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.
--Only CO and QU do $CDN to crypto.
--All exchanges take commissions on buy sell exchange 
--cryptocompare.com coinbase 4/5 binance 4.8/5 
--Quadriga (security? (exits BTC to $CDN are very difficult) see the sub reddit on CC exchanges (there are some unusual scripts in their codes and the information on their ownership operations governance is sketchy)
--Low trade volume (ex in Canada) lead to higher spreads (wider gaps in bid vs ask)
+- Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io)
+- Always Transfer funds to cold wallets
+- Beware of scams verify validate companies background and transfer funds to cold wallet.
+- CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.
+- Only CO and QU do $CDN to crypto.
+- All exchanges take commissions on buy sell exchange 
+- cryptocompare.com coinbase 4/5 binance 4.8/5 
+- Quadriga (security? (exits BTC to $CDN are very difficult exchange or banks fault?) 
+- Low trade volume (ex in Canada) lead to higher spreads (wider gaps in bid vs ask)
