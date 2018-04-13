@@ -2,13 +2,13 @@
 ## Course Name: Introduction to Bitcoin and Crypto Currencies
 ## Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
 ## Revision: Version controlled in Github at 
-https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse/edit/master/README.md
+https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
 ## Author: JF Giraud eng.
 ## Contacts: 
--isogolf@gmail.com 
--https://twitter.com/8289468
--linkedin.com/in/jfgiraudengineer
--https://sites.google.com/site/8289468canadainc
+--isogolf@gmail.com 
+--https://twitter.com/8289468
+--linkedin.com/in/jfgiraudengineer
+--https://sites.google.com/site/8289468canadainc
 --
 -BTC 
 -LTC
@@ -16,8 +16,8 @@ https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse/edit/master
 -ETH
 
 # Definitions and acronyms: 
--Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc. 
--P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database) 
+*Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc. 
+*P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database) 
 
 # Disclaimer: 
 This is not financial advice (no warranty). It is an analysis of the risks and opportunities of CC.
