@@ -1,6 +1,6 @@
 # BitcoinCryptoCurrenciesCourse
 ## Course Name: Introduction to Bitcoin and Crypto Currencies
-## Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
+### Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
 ## Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
 ## Author: JF Giraud eng.
