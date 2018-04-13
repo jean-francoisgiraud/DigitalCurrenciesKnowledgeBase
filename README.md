@@ -1,17 +1,19 @@
 # BitcoinCryptoCurrenciesCourse
-# Course Name:  			Introduction to Bitcoin and Crypto Currencies
-# Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
-# Revision: 		  		20180413.0946.jfg
-# Author:  				  	JF Giraud eng.
-# Contacts:				    isogolf@gmail.com 
-	  						    https://twitter.com/8289468
-		  					    linkedin.com/in/jfgiraudengineer
-			  				    https://sites.google.com/site/8289468canadainc
+## Course Name: Introduction to Bitcoin and Crypto Currencies
+## Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
+## Revision: Version controlled in Github at 
+https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse/edit/master/README.md
+## Author: JF Giraud eng.
+## Contacts: 
+isogolf@gmail.com 
+https://twitter.com/8289468
+linkedin.com/in/jfgiraudengineer
+https://sites.google.com/site/8289468canadainc
 
-	BTC 
-	LTC
-	DASH
-	ETH
+BTC 
+LTC
+DASH
+ETH
 
 # Definitions and acronyms: 
 Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc. 
@@ -104,22 +106,21 @@ This is a simple option but you can make your own public and private keys compat
 (2) https://github.com/bitaddress/bitaddress (a non GUI alternative to (1))
 
 ## - APPENDIX
-* BUY SELL TRADE CRYPTOCURENCIES IN CANADA
-ID COMPANY	FEES%	NOTES
-KR	Kraken			  world#2 in volume; serve NA except NY (because BitLicense) 
-CO Coinbase	4		  limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC)
-BI Binance	note	only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%)
-KU	Kucoin	note	low fees
-LB	LocalBTC	high	LocalBitcoins.com several traders (cash in person for BTC at their offices)
-QU Quadriga	1.5-5	complex	security concerns Canadian Company 
---------------------------------------------------------------------------------------------------------
-NOTES-TIPS-LL(Lessons Learned)
-Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io)
-Always Transfer funds to cold wallets
-Beware of scams verify validate companies background and transfer funds to cold wallet.
-CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.
-Only CO and QU do $CDN to crypto.
-All exchanges take commissions on buy sell exchange 
-cryptocompare.com coinbase 4/5 binance 4.8/5 
-Quadriga (security? (exits BTC to $CDN are very difficult) see the sub reddit on CC exchanges (there are some unusual scripts in their codes and the information on their ownership operations governance is sketchy)
-Low trade volume (ex in Canada) lead to higher spreads (wider gaps in bid vs ask)
+-BUY SELL TRADE CRYPTOCURENCIES IN CANADA
+-ID,COMPANY,FEES%,NOTES
+-KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense) 
+-CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC)
+-BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%)
+-KU,Kucoin,note,low fees
+-LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices)
+-QU,Quadriga,1.5-5,complex,security concerns Canadian Company 
+## NOTES-TIPS-LL(Lessons Learned)
+-Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io)
+-Always Transfer funds to cold wallets
+-Beware of scams verify validate companies background and transfer funds to cold wallet.
+-CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.
+-Only CO and QU do $CDN to crypto.
+-All exchanges take commissions on buy sell exchange 
+-cryptocompare.com coinbase 4/5 binance 4.8/5 
+-Quadriga (security? (exits BTC to $CDN are very difficult) see the sub reddit on CC exchanges (there are some unusual scripts in their codes and the information on their ownership operations governance is sketchy)
+-Low trade volume (ex in Canada) lead to higher spreads (wider gaps in bid vs ask)
