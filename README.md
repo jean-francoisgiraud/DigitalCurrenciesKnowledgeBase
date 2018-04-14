@@ -1,10 +1,10 @@
 # BitcoinCryptoCurrenciesCourse
-## Course Name: Introduction to Bitcoin and Crypto Currencies
+### Course Name: Introduction to Bitcoin and Crypto Currencies
 ### Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
-## Revision: Version controlled in Github at 
+### Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
-## Author: JF Giraud eng.
-## Contacts:  
+### Author: JF Giraud eng.
+### Contacts:  
 https://twitter.com/8289468.  
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
@@ -13,6 +13,10 @@ BTC.
 LTC.  
 DASH.  
 ETH.  
+
+# Latest News:
+
+2018 march. Visa and MC from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
 Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc.  
