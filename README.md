@@ -1,5 +1,5 @@
 # BitcoinCryptoCurrenciesCourse
-### Course Name: Introduction to Bitcoin and Crypto Currencies
+### Course Name: Introduction to CryptoCurrencies (Bitcoin), DAO, Predictive Markets
 ### Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
 ### Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
@@ -9,25 +9,25 @@ https://twitter.com/8289468.
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
 
-My Crypto adresses:
-BTC (Bitcoin):   
-BCH (Bitcoin Cash): 
-BSV (Bitcoin Satoshi Vision):
-DOGE (Dogecoin):
+My Crypto adresses:  
+BTC (Bitcoin):  
+BCH (Bitcoin Cash):  
+BSV (Bitcoin Satoshi Vision):  
+DOGE (Dogecoin):  
 LTC (LiteCoin):  
 DASH (Dash):  
 ETH (Ethereum):  
 
-# Latest News:
-
+# Latest News and change log:  
+2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
 Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, Dogecoin etc.  
-P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex BitTorent. 
+P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent. 
 
 # Disclaimer: 
-This is not financial advice (no warranty). It is an analysis of the risks and opportunities of CC.  
+This is not financial advice (there are no warranties of any types). It is an analysis of the risks and opportunities of CC.  
 CC is a fast changing environment some information herein may have changed since the latest revision.
 
 # FAQ (Frequently Asked Questions)
@@ -35,7 +35,7 @@ CC is a fast changing environment some information herein may have changed since
 ## 1- What is money? 
 It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example.  
 IF a group of individuals wants to barter together and they agree that 10fish=1chicken.  
-AND 1fish=1seashell (for convenience 1fish can be represented by 1seashell).  
+AND 1_fish=1_seashell (for convenience and improved storage 1_fish can be represented by 1_seashell).  
 THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
 (1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
@@ -49,7 +49,16 @@ This technology was invented by Satoshi Nakamoto and made public in his 2008 bit
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
 It was partly in response to the 2007-2008 worldwide systemic financial and real-estate crash.  
 This crash left millions of people in debts and made banks even richer than they already were (because of questionable financial practices designed to transfer funds from the public to private entities).  
-These practices included commercial banks engaging in investments banking which was the cause of the great depression and had been outlawed after the great depression by the Glass-Steagall act which was repelled in 1999 which then caused the 2007-2008 financial crisis. 
+These practices included commercial banks engaging in investments banking which was the cause of the great depression and had been outlawed after the great depression by the Glass-Steagall act which was repelled in 1999 which then caused the 2007-2008 financial crisis.  
+  
+Abstract from Merkle, R. (2016) DAOs, Democracy and Governance.  
+"Democracies are typically seen as governments which call upon the governed to make the major decisions of government: who shall lead, what policies to follow, what laws to enact. In all these matters democracies call upon ordinary citizens to make complex decisions with eventful consequences.
+We do not call upon ordinary untrained citizens to perform surgery, fly airplanes, design computers, or carry out the other myriad tasks needed to keep society functioning, what makes governance different?
+The problem is readily understood: if we give governance to “experts” they will make decisions in their own best interests, not in the best interests of us all. As we have seen too often in the past, this leads to enrichment of a small elite and the enslavement or worse of the vast majority. Can we take advantage of the expertise of the best and brightest, while insulating the system from attempts they might make to gain control?
+Modern research into “the wisdom of crowds” provides new insights into how to combine the expertise of all participants without handing over control to “experts”. Combined with research on Decentralized Autonomous Organizations (DAOs), this allows us to design a new form of democracy which is more stable, less prone to erratic behavior, better able to meet the needs of its citizens, and which better uses the expertise of all its citizens to make high-quality decisions.
+We call this new form of democracy a DAO Democracy."  
+Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- August, Vol 37:4, pp 28-40; Alcor, www.alcor.org. https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28 Version 1.9 2 2016-05-31  
+
 
 ## 4- How to obtain CC? 
 4.1. Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
