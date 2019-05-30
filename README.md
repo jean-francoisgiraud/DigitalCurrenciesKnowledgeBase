@@ -9,18 +9,22 @@ https://twitter.com/8289468.
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
 
-BTC.  
-LTC.  
-DASH.  
-ETH.  
+My Crypto adresses:
+BTC (Bitcoin):   
+BCH (Bitcoin Cash): 
+BSV (Bitcoin Satoshi Vision):
+DOGE (Dogecoin):
+LTC (LiteCoin):  
+DASH (Dash):  
+ETH (Ethereum):  
 
 # Latest News:
 
-2018 march. Visa and MC from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
+2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
-Crypto Currencies = CC = Bitcoin(BTC) = Ether(ETH) = LiteCoin(LTC) = Dash = dogecoin etc.  
-P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database).  
+Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, Dogecoin etc.  
+P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex BitTorent. 
 
 # Disclaimer: 
 This is not financial advice (no warranty). It is an analysis of the risks and opportunities of CC.  
@@ -33,13 +37,13 @@ It starts naturally (1) as a decentralised peer-peer agreement-language on what 
 IF a group of individuals wants to barter together and they agree that 10fish=1chicken.  
 AND 1fish=1seashell (for convenience 1fish can be represented by 1seashell).  
 THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
-(1) Even children often develop their own money to exchange things with each other (marbles, candy, etc.)
+(1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
 ## 2- What are the problems with modern money?
 2.1. With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their self-serving best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).
 
 ## 3- How can money be improved to make society better?
-3.1. Returning to money by the people for the people. That means a system of decentralised peer to peer agreement (a language for money on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  
+3.1. Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.
 3.2. CC built on cryptology and the internet make money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
 This technology was invented by Satoshi Nakamoto and made public in his 2008 bitcoin white paper.   
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
@@ -98,9 +102,34 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 9.3. store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later.  
 
 ## REFERENCES
+Essentials  
 (1) bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).  
 (2) https://github.com/bitaddress/bitaddress (a non GUI alternative to (1)).  
 (3) https://walletgenerator.net.  
+https://en.wikipedia.org/wiki/Dogecoin
+https://en.wikipedia.org/wiki/BitTorrent
+http://merkle.com/papers/DAOdemocracyDraft.pdf
+Secondaries  
+http://wiki.p2pfoundation.net/DAOs,_Democracy_and_Governance	 
+http://merkle.com/papers/DAOdemocracyDraft.pdf  
+https://letstalkbitcoin.com/blog/post/epicenter-252-ralph-merkle-revolutionizing-democracy-using-daos-rebroadcast  
+https://www.coindesk.com/ralph-merkle-is-back-and-he-wants-to-resurrect-daos  
+https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288  
+https://medium.com/ostdotcom/decoding-token-economics-insights-from-our-token-engineering-token-economy-design-workshop-at-cfd1a0e39421 https://medium.com/prysmeconomics/economics-of-tokenized-incentives-1-intro-to-pay-for-performance-84e3b9cfffa  
+https://medium.com/coinmonks/incentive-fundamentals-for-a-token-economy-3f161ac04ac4  
+https://medium.com/coinmonks/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping-191cdcfa0b78  
+https://medium.com/coinmonks/why-ethereum-1-0-failed-and-bitcoin-succeeded-72e9594b9789  
+https://medium.com/coinmonks/crypto-governance-the-startup-vs-nation-state-approach-d36df341878a  
+https://medium.com/@pierre_rochard/bitcoin-governance-37e86299470f  
+https://medium.com/blockchannel/the-crypto-governance-manifesto-2326e72dc3d0  
+https://blog.goodaudience.com/blockchain-governance-101-eea5201d7992  
+https://medium.com/amentum/blockchain-communities-and-their-emergent-governance-cfe5627dcf52  
+https://medium.com/@FEhrsam/blockchain-governance-programming-our-future-c3bfe30f2d74  
+https://medium.com/alpineintel/on-governance-coordination-layers-and-structural-integrity-81a722ba1bc0  
+https://a16z.com/2018/07/26/cryptonetworks-cities-analogies/  
+https://en.wikipedia.org/wiki/Token_economy  
+https://en.wikipedia.org/wiki/Ralph_Merkle  
+
  
 ## APPENDIX
 BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
