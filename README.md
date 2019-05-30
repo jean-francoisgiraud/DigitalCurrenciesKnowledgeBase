@@ -18,6 +18,21 @@ LTC (LiteCoin):
 DASH (Dash):  
 ETH (Ethereum):  
 
+# Table of Contents
+Latest News and change log  
+Definitions and acronyms  
+Disclaimer  
+FAQ (Frequently Asked Questions)  
+1- What is money?  
+2- What are the problems with modern money?  
+3- How can money be improved to make society better?  
+4- How to obtain CC?  
+5- What can it be used for?  
+6- How can it be safely stored?  
+7- What is a CC wallet?  
+8- How to protect a CC wallet?  
+9- How to spend CC?  
+
 # Latest News and change log:  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
