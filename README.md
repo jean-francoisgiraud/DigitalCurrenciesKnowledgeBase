@@ -32,6 +32,7 @@ FAQ (Frequently Asked Questions)
 7- What is a CC wallet?  
 8- How to protect a CC wallet?  
 9- How to spend CC?  
+10- What are the regulatory compliance requirements?  
 
 # Latest News and change log:  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
@@ -123,7 +124,12 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 ## 9- How to spend CC? 
 9.1. go to blockchain.info.  
 9.2. scan the balance of your private key into your account or.  
-9.3. store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later.  
+9.3. store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
+
+## 10- What are the regulatory compliance requirements?
+It depends on the contry. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
+
+
 
 ## REFERENCES
 Essentials  
