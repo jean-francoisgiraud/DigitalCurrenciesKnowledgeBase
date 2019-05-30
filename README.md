@@ -1,4 +1,4 @@
-# BitcoinCryptoCurrenciesCourse
+# Github Name: BitcoinDigitalCurrenciesCourse
 ### Course Name: Introduction to CryptoCurrencies (Bitcoin), DAO, Predictive Markets
 ### Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
 ### Revision: Version controlled in Github at 
