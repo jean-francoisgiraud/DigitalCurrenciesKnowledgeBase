@@ -3,7 +3,7 @@
 ### Course Description: Bitcoin and Crypto Currencies Course a 1 hour presentation and Q&A
 ### Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/BitcoinCryptoCurrenciesCourse
-### Author: JF Giraud eng.
+### Author: JF Giraud
 ### Contacts:  
 https://twitter.com/8289468.  
 linkedin.com/in/jfgiraudengineer.  
@@ -34,7 +34,7 @@ FAQ (Frequently Asked Questions)
 9- How to spend CC?  
 10- What are the regulatory compliance requirements?  
 
-# Latest News and change log:  
+# Latest news and change log:  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
@@ -46,6 +46,7 @@ P2P= Peer To Peer (a replicated network of ledger-database-records the opposite 
 This is not financial advice (there are no warranties of any types). It is an analysis of the risks and opportunities of CC.  
 CC is a fast changing environment some information herein may have changed since the latest revision.
 
+
 # FAQ (Frequently Asked Questions)
 
 ## 1- What is money? 
@@ -55,11 +56,13 @@ AND 1_fish=1_seashell (for convenience and improved storage 1_fish can be repres
 THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
 (1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
+
 ## 2- What are the problems with modern money?
 2.1. With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their self-serving best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).
 
+
 ## 3- How can money be improved to make society better?
-3.1. Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.
+3.1. Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.  
 3.2. CC built on cryptology and the internet make money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
 This technology was invented by Satoshi Nakamoto and made public in his 2008 bitcoin white paper.   
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
@@ -82,13 +85,16 @@ Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- 
 4.3. Beware of scams and hacks and illegal unregulated trades-exchanges and unethical operations (pre-mining).  
 4.3.1. ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
 
+
 ## 5- What can it be used for? 
 5.1. Peer to peer vale exchanges of products and services (currency), store of value (money and investments)
+
 
 ## 6- How can it be safely stored? 
 6.1. From the safest to least safe.  
 6.1.1. Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
 6.2. Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
+
 
 ## 7- What is a CC wallet? 
 Reference (1) (bitaddress.org).  
@@ -121,14 +127,14 @@ Only install apps you fully trust, malicious apps could be trying to steal your 
 Only keep on your smart phone a small reasonable amount for your routine use and keep your main investments offline.  
 If you have an important amount or CC you should transfer it in cold storage (paper wallet backed up and kept in safe and different location) that is how CC investors keep their funds.  
 
+
 ## 9- How to spend CC? 
-9.1. go to blockchain.info.  
-9.2. scan the balance of your private key into your account or.  
-9.3. store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
+9.1. Go to blockchain.info.  
+9.2. Scan the balance of your private key into your account or.  
+9.3. Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
 
 ## 10- What are the regulatory compliance requirements?
-It depends on the contry. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
-
+It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
 
 
 ## REFERENCES
@@ -138,7 +144,7 @@ Essentials
 (3) https://walletgenerator.net.  
 https://en.wikipedia.org/wiki/Dogecoin
 https://en.wikipedia.org/wiki/BitTorrent
-http://merkle.com/papers/DAOdemocracyDraft.pdf
+http://merkle.com/papers/DAOdemocracyDraft.pdf  
 Secondaries  
 http://wiki.p2pfoundation.net/DAOs,_Democracy_and_Governance	 
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
@@ -181,4 +187,4 @@ Only CO and QU do $CDN to crypto.
 All exchanges take commissions on buy sell exchange.   
 cryptocompare.com coinbase 4/5 binance 4.8/5.  
 Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).  
-Low trade volume (ex in Canada) lead to higher spreads (wider gaps in bid vs ask).  
+Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
