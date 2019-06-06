@@ -9,7 +9,8 @@ https://twitter.com/8289468.
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
 
-My Crypto addresses:  
+# Donations
+Donations to this project are going directly to the developing team.  
 BTC (Bitcoin):  
 BCH (Bitcoin Cash):  
 BSV (Bitcoin Satoshi Vision):  
@@ -17,6 +18,7 @@ DOGE (Dogecoin):
 LTC (LiteCoin):  
 DASH (Dash):  
 ETH (Ethereum):  
+
 
 # Table of Contents
 Latest News and change log  
