@@ -35,6 +35,9 @@ FAQ (Frequently Asked Questions)
 8- How to protect a CC wallet?  
 9- How to spend CC?  
 10- What are the regulatory compliance requirements?  
+APPENDIX  
+NOTES-TIPS-LL(Lessons Learned)  
+Contributing  
 
 # Latest news and change log:  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
@@ -194,3 +197,6 @@ All exchanges take commissions on buy sell exchange.
 cryptocompare.com coinbase 4/5 binance 4.8/5.  
 Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).  
 Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
+
+## Contributing
+You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.
