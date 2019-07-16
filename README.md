@@ -9,6 +9,7 @@ https://twitter.com/8289468.
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
 
+<!--
 # Donations
 Donations to this project are going directly to the developing team.  
 BTC (Bitcoin):  
@@ -18,6 +19,7 @@ DOGE (Dogecoin):
 LTC (LiteCoin):  
 DASH (Dash):  
 ETH (Ethereum):  
+-->
 
 
 # Table of Contents
@@ -35,6 +37,8 @@ FAQ (Frequently Asked Questions)
 8- How to protect a CC wallet?  
 9- How to spend CC?  
 10- What are the regulatory compliance requirements?  
+11- Quotes  
+12- Innovations and "disruptions"  
 APPENDIX  
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
@@ -144,6 +148,20 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 
 ## 10- What are the regulatory compliance requirements?
 It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
+
+## 11- Quotes  
+Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is laike saying that the internet is email currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currecncy is just the first app. It changes the nature of money and change is difficult. Fist they deny it was real money then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value.  
+Ref. Andreas M. Antonopoulos Bitcoin is Punk-Rock, You Cannot Control it WIRED  
+
+## 12- Innovations and "disruptions"  
+Disruptions is the new buzzword.  They renamed bitcoin the blockchain.
+Bitcoin is about the 6 billions unbanked people.  
+Personal identifiable information/data in centralized system cannot be protected (even the NSA has been hacked and leaked). The only way to protect it is to not collect it.  
+Unlike the centralized systems cryptocurrencies do not require personal data to operate.  
+The blochain is only a slow ledger but what makes it special and different from the existing systems is the possibility of completely decentralized consensus.  
+The revolutionary disruption is how trnasactions can be done peer to peer without requiring a third party 'authority'.  
+
+
 
 
 ## REFERENCES
