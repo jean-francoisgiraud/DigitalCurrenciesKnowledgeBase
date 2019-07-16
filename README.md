@@ -39,6 +39,7 @@ FAQ (Frequently Asked Questions)
 10- What are the regulatory compliance requirements?  
 11- Quotes  
 12- Innovations and "disruptions"  
+13- DAG (Directed Acyclic Graph) vs blockchain
 APPENDIX  
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
@@ -160,6 +161,11 @@ Personal identifiable information/data in centralized system cannot be protected
 Unlike the centralized systems cryptocurrencies do not require personal data to operate.  
 The blochain is a very slow ledger but what makes it special and different from the existing systems is the possibility of completely decentralized consensus.  
 The revolutionary disruption is how tansactions can be done peer to peer without requiring a third party 'authority'.  
+
+## 13- DAG (Directed Acyclic Graph) vs blockchain
+Blockchain vs. DAG  
+Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
+Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
 
 ## REFERENCES
 Essentials  
