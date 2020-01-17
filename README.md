@@ -1,5 +1,5 @@
 # Github Name: DigitalCurrenciesKnowledgeBase
-### Course Name: Introduction to CryptoCurrencies (Bitcoin), DAO, Predictive Markets
+### Course Name: Introduction to CryptoCurrencies (Bitcoin, ETH, etc), DAO, Predictive Markets
 ### Course Description: Crypto Currencies Course presentation and Q&A
 ### Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase
