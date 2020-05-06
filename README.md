@@ -1,5 +1,5 @@
 # Github Name: DigitalCurrenciesKnowledgeBase
-### Course Name: Introduction to CryptoCurrencies (Bitcoin, ETH, etc), DAO, Predictive Markets
+### Course Name: Introduction to CryptoCurrencies (Bitcoin, ETH), DAO, Predictive Markets
 ### Course Description: Crypto Currencies Course presentation and Q&A
 ### Revision: Version controlled in Github at 
 https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase
@@ -53,6 +53,9 @@ Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, 
 DAO = Decentralized Autonomous Organization   
 P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
 
+Public-key cryptography, or asymmetric cryptography, is a cryptographic system that uses pairs of keys: public keys, which may be disseminated widely, and private keys, which are known only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective security only requires keeping the private key private; the public key can be openly distributed without compromising security. In such a system, any person can encrypt a message using the receiver's public key, but that encrypted message can only be decrypted with the receiver's private key.  
+
+Tokenization: combining public-private key cryptography and a public ledger, any number of tokens can be created on a blockchain.  
 
 # Disclaimer: 
 This is not financial advice (there are no warranties of any types). It is an analysis of the risks and opportunities of CC.  
@@ -167,6 +170,33 @@ Blockchain vs. DAG
 Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
 Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
 
+
+ 
+## APPENDIX
+BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
+ID,COMPANY,FEES%,NOTES.  
+KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense).  
+CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC).  
+BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%).  
+KU,Kucoin,note,low fees.  
+LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
+QU,Quadriga,1.5-5,complex,CanadianCompany.  
+
+## NOTES-TIPS-LL(Lessons Learned)
+Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
+Always Transfer funds to cold wallets.  
+Transferring CC to national currencies via banks is never fast or easy.  
+Beware of scams verify validate companies background and transfer funds to cold wallet.  
+CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.   
+Only CO and QU do $CDN to crypto.  
+All exchanges take commissions on buy sell exchange.   
+cryptocompare.com coinbase 4/5 binance 4.8/5.  
+Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).  
+Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
+
+## Contributing
+You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.
+
 ## REFERENCES
 Essentials  
 (1) bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).  
@@ -195,29 +225,6 @@ https://medium.com/alpineintel/on-governance-coordination-layers-and-structural-
 https://a16z.com/2018/07/26/cryptonetworks-cities-analogies/  
 https://en.wikipedia.org/wiki/Token_economy  
 https://en.wikipedia.org/wiki/Ralph_Merkle  
-
- 
-## APPENDIX
-BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
-ID,COMPANY,FEES%,NOTES.  
-KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense).  
-CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC).  
-BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%).  
-KU,Kucoin,note,low fees.  
-LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
-QU,Quadriga,1.5-5,complex,CanadianCompany.  
-
-## NOTES-TIPS-LL(Lessons Learned)
-Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
-Always Transfer funds to cold wallets.  
-Transferring CC to national currencies via banks is never fast or easy.  
-Beware of scams verify validate companies background and transfer funds to cold wallet.  
-CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.   
-Only CO and QU do $CDN to crypto.  
-All exchanges take commissions on buy sell exchange.   
-cryptocompare.com coinbase 4/5 binance 4.8/5.  
-Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).  
-Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
-
-## Contributing
-You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.
+https://wiki.linuxfoundation.org/_media/openchain/openchainspec-current.pdf  
+https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/  
+https://www.openchainproject.org/resources/faq  
