@@ -171,10 +171,11 @@ Blockchain vs. DAG
 Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
 Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
 
-## 14- Regulations (of securities)
+## 14- Regulations (of securities) and taxations
 In Canada crypto currencies are regulated under provincial securities laws.  
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
- 
+This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+
 ## APPENDIX
 BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
 ID,COMPANY,FEES%,NOTES.  
