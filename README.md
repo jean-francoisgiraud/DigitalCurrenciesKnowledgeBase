@@ -107,7 +107,7 @@ Beware of scams and hacks and illegal unregulated trades-exchanges and unethical
 ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
 
 
-## 5- What can it be used for 
+## What can it be used for 
 Peer to peer vale exchanges of products and services (currency), store of value (money and investments)
 
 
