@@ -39,12 +39,12 @@ ETH (Ethereum):
 [What are the regulatory compliance requirements](#What-are-the-regulatory-compliance-requirements)  
 [Quotes](#quotes)  
 [Innovations and disruptions](#Innovations-and-disruptions)  
-[DAG (Directed Acyclic Graph) vs blockchain](#DAG-(Directed-Acyclic-Graph)-vs-blockchain)  
+[DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [Regulations](#Regulations)  
 [The money flower](#The-money-flower)  
 [Cloud based supporting documents](#Cloud-based-supporting-documents)  
 [APPENDIX](#APPENDIX)  
-[NOTES-TIPS-LL(Lessons Learned)](#NOTES-TIPS-LL(Lessons-Learned))  
+[NOTES TIPS LL Lessons Learned](#NOTES-TIPS-LL-Lessons-Learned)  
 [Contributing](#Contributing)  
 
 # News Changelog  
@@ -161,7 +161,7 @@ It depends on the country where the CC are used. see https://en.wikipedia.org/wi
 Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust.  
 Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
 
-## Innovations and "disruptions"  
+## Innovations and disruptions  
 Disruption is a new buzzword.  
 Bitcoin is about the 6 billions unbanked people.  
 Personal identifiable information/data in centralized system cannot be protected (even the NSA has been hacked and leaked). The only way to protect it is to not collect it.  
@@ -169,12 +169,12 @@ Unlike the centralized systems cryptocurrencies do not require personal data to 
 The blochain is a very slow ledger but what makes it special and different from the existing systems is the possibility of completely decentralized consensus.  
 The revolutionary disruption is how tansactions can be done peer to peer without requiring a third party 'authority'.  
 
-## DAG (Directed Acyclic Graph) vs blockchain
+## DAG Directed Acyclic Graph vs blockchain
 Blockchain vs. DAG  
 Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
 Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
 
-## Regulations (of securities) and taxations
+## Regulations of securities and taxations
 In Canada crypto currencies are regulated under provincial securities laws.  
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
 This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
@@ -201,7 +201,7 @@ KU,Kucoin,note,low fees.
 LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
 QU,Quadriga,1.5-5,complex,CanadianCompany.  
 
-## NOTES-TIPS-LL(Lessons Learned)
+## NOTES TIPS LL Lessons Learned
 Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
 Always Transfer funds to cold wallets.  
 Transferring CC to national currencies via banks is never fast or easy.  
