@@ -23,10 +23,11 @@ ETH (Ethereum):
 
 
 # Table of Contents
-Latest News and change log  
+# [News&changelog](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase#News&changelog)  
+# [News&changelog](#News&changelog)  
 Definitions and acronyms  
 Disclaimer  
-FAQ (Frequently Asked Questions)  
+FAQ Frequently Asked Questions  
 1- What is money?  
 2- What are the problems with modern money?  
 3- How can money be improved to make society better?  
@@ -47,8 +48,8 @@ APPENDIX
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
 
-# Latest news and change log:  
-20210111 added section 15.  
+# News&changelog  
+20210111 added sections after 9 and removed numbering where not necessary.  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
