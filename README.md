@@ -27,7 +27,7 @@ ETH (Ethereum):
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
-[1- What is money?](#1--What-is-money?)  
+[1 What is money](#1--What-is-money)  
 2- What are the problems with modern money?  
 3- How can money be improved to make society better?  
 4- How to obtain CC?  
@@ -68,7 +68,7 @@ CC is a fast changing environment some information herein may have changed since
 
 # FAQ (Frequently Asked Questions)
 
-## 1- What is money? 
+## 1 What is money 
 A way to exchange and store value. A social-agreement-contract on what is good and valuable.  
 It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example.  
 IF a group of individuals wants to barter together and they agree (based on the amount of work required) that 10_fish = 1_chicken.  
