@@ -39,8 +39,9 @@ FAQ (Frequently Asked Questions)
 10- What are the regulatory compliance requirements?  
 11- Quotes  
 12- Innovations and "disruptions"  
-13- DAG (Directed Acyclic Graph) vs blockchain
-14- Regulations
+13- DAG (Directed Acyclic Graph) vs blockchain  
+14- Regulations  
+15- The money flower  
 APPENDIX  
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
