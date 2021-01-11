@@ -23,8 +23,7 @@ ETH (Ethereum):
 
 
 # Table of Contents
-# [News&changelog](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase#News&changelog)  
-# [News&changelog](#News&changelog)  
+[News&changelog](#News&changelog)  
 Definitions and acronyms  
 Disclaimer  
 FAQ Frequently Asked Questions  
