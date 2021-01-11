@@ -46,6 +46,7 @@ NOTES-TIPS-LL(Lessons Learned)
 Contributing  
 
 # Latest news and change log:  
+20210111 added section 15.  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
@@ -175,6 +176,11 @@ Directed Acyclic Graphs are implementation of Graphs that allow the network to a
 In Canada crypto currencies are regulated under provincial securities laws.  
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
 This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+
+## 15- The money flower a taxonomy of moiney
+https://www.facebook.com/photo/?fbid=10226436295602291&set=a.10201657964639503&__cft__[0]=AZUEWd6LnbUgzJicug5_dry1wW1BTbfCZCubfX5rb05751p4jU5pwuY8k7nUTy_eeIXc9oTeb2puO-G7MdLK3e_yWyP2yR-y-HXjsMKArYhQtw&__tn__=EH-R  
+https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png  
+
 
 ## APPENDIX
 BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
