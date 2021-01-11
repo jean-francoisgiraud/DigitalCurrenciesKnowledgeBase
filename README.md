@@ -36,13 +36,13 @@ FAQ (Frequently Asked Questions)
 7- What is a CC wallet?  
 8- How to protect a CC wallet?  
 9- How to spend CC?  
-10- What are the regulatory compliance requirements?  
-11- Quotes  
-12- Innovations and "disruptions"  
-13- DAG (Directed Acyclic Graph) vs blockchain  
-14- Regulations  
-15- The money flower 
-16- Cloud based supporting documents  
+What are the regulatory compliance requirements?  
+Quotes  
+Innovations and "disruptions"  
+DAG (Directed Acyclic Graph) vs blockchain  
+Regulations  
+The money flower  
+Cloud based supporting documents  
 APPENDIX  
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
@@ -154,14 +154,14 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 9.2. Scan the balance of your private key into your account or.  
 9.3. Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
 
-## 10- What are the regulatory compliance requirements?
+## What are the regulatory compliance requirements?
 It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
 
-## 11- Quotes  
+## Quotes  
 Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust.  
 Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
 
-## 12- Innovations and "disruptions"  
+## Innovations and "disruptions"  
 Disruption is a new buzzword.  
 Bitcoin is about the 6 billions unbanked people.  
 Personal identifiable information/data in centralized system cannot be protected (even the NSA has been hacked and leaked). The only way to protect it is to not collect it.  
@@ -169,17 +169,17 @@ Unlike the centralized systems cryptocurrencies do not require personal data to 
 The blochain is a very slow ledger but what makes it special and different from the existing systems is the possibility of completely decentralized consensus.  
 The revolutionary disruption is how tansactions can be done peer to peer without requiring a third party 'authority'.  
 
-## 13- DAG (Directed Acyclic Graph) vs blockchain
+## DAG (Directed Acyclic Graph) vs blockchain
 Blockchain vs. DAG  
 Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
 Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
 
-## 14- Regulations (of securities) and taxations
+## Regulations (of securities) and taxations
 In Canada crypto currencies are regulated under provincial securities laws.  
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
 This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
-## 15- The money flower a taxonomy of money
+## The money flower a taxonomy of money
 https://www.facebook.com/photo/?fbid=10226436295602291&set=a.10201657964639503&__cft__[0]=AZUEWd6LnbUgzJicug5_dry1wW1BTbfCZCubfX5rb05751p4jU5pwuY8k7nUTy_eeIXc9oTeb2puO-G7MdLK3e_yWyP2yR-y-HXjsMKArYhQtw&__tn__=EH-R  
 
 https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png  
