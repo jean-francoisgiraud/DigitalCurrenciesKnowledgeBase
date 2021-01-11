@@ -27,7 +27,7 @@ ETH (Ethereum):
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
-[1- What is money?](#1-What)  
+[1- What is money?](#1--What-is-money?)  
 2- What are the problems with modern money?  
 3- How can money be improved to make society better?  
 4- How to obtain CC?  
