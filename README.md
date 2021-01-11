@@ -182,9 +182,11 @@ This means thatif you buy and sell them at a profit, you have income (capital ga
 ## The money flower a taxonomy of money
 [My facebook](https://www.facebook.com/photo/?fbid=10226436295602291&set=a.10201657964639503&__cft__[0]=AZUEWd6LnbUgzJicug5_dry1wW1BTbfCZCubfX5rb05751p4jU5pwuY8k7nUTy_eeIXc9oTeb2puO-G7MdLK3e_yWyP2yR-y-HXjsMKArYhQtw&__tn__=EH-R)
 
-[Wikipedia](https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png)
+Wikipedia:
+![alt text](https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png "MF-png")
 
-[MoneyFlower](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase/MoneyFlower.jpg)
+MoneyFlower:
+![alt text](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase/MoneyFlower.jpg "MF-jpg")
 
 
 ## Cloud based supporting documents  
