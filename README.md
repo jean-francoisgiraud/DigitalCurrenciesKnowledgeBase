@@ -23,7 +23,7 @@ ETH (Ethereum):
 
 
 # Table of Contents
-[News&changelog](#News&changelog)  
+[News-changelog](#News-changelog)  
 Definitions and acronyms  
 Disclaimer  
 FAQ Frequently Asked Questions  
@@ -47,7 +47,7 @@ APPENDIX
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
 
-# News&changelog  
+#News-changelog  
 20210111 added sections after 9 and removed numbering where not necessary.  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
