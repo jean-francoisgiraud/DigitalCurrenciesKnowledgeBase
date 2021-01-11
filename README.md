@@ -23,7 +23,7 @@ ETH (Ethereum):
 
 
 # Table of Contents
-[news changelog](#News-changelog)  
+[News changelog](#News-changelog)  
 Definitions and acronyms  
 Disclaimer  
 FAQ Frequently Asked Questions  
