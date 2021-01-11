@@ -77,7 +77,7 @@ THEN seashells become a medium of exchange (currency) and a way to store wealth 
 (1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
 
-## What are some of the issues and problems with modern money
+## What are the problems with modern money
 With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).  
 No longer money by the people for the people.  
 
