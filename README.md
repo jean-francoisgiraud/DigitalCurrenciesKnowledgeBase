@@ -41,7 +41,8 @@ FAQ (Frequently Asked Questions)
 12- Innovations and "disruptions"  
 13- DAG (Directed Acyclic Graph) vs blockchain  
 14- Regulations  
-15- The money flower  
+15- The money flower 
+16- Cloud based supporting documents  
 APPENDIX  
 NOTES-TIPS-LL(Lessons Learned)  
 Contributing  
@@ -178,10 +179,13 @@ In Canada crypto currencies are regulated under provincial securities laws.
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
 This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
-## 15- The money flower a taxonomy of moiney
+## 15- The money flower a taxonomy of money
 https://www.facebook.com/photo/?fbid=10226436295602291&set=a.10201657964639503&__cft__[0]=AZUEWd6LnbUgzJicug5_dry1wW1BTbfCZCubfX5rb05751p4jU5pwuY8k7nUTy_eeIXc9oTeb2puO-G7MdLK3e_yWyP2yR-y-HXjsMKArYhQtw&__tn__=EH-R  
+
 https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png  
 
+## Cloud based supporting documents  
+https://docs.google.com/document/d/1MYqwP2GnMW79AKyrDpBttQ4l4NXbyVyBKYrGOTze8oU  
 
 ## APPENDIX
 BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
