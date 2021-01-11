@@ -184,7 +184,7 @@ This means thatif you buy and sell them at a profit, you have income (capital ga
 
 [Wikipedia png](https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_flower.png)
 
-[MoneyFlower git jpg](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase/MoneyFlower.jpg)
+[MoneyFlower git jpg](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase/blob/master/MoneyFlower.jpg)
 
 
 ## Cloud based supporting documents  
