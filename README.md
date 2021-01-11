@@ -28,24 +28,24 @@ ETH (Ethereum):
 [Disclaimer](#Disclaimer)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
 [What is money](#What-is-money)  
-2- What are the problems with modern money?  
-3- How can money be improved to make society better?  
-4- How to obtain CC?  
-5- What can it be used for?  
-6- How can it be safely stored?  
-7- What is a CC wallet?  
-8- How to protect a CC wallet?  
-9- How to spend CC?  
-What are the regulatory compliance requirements?  
-Quotes  
-Innovations and "disruptions"  
-DAG (Directed Acyclic Graph) vs blockchain  
-Regulations  
-The money flower  
-Cloud based supporting documents  
-APPENDIX  
-NOTES-TIPS-LL(Lessons Learned)  
-Contributing  
+[What are the problems with modern money](#What-are-the-problems-with-modern-money)  
+[How can money be improved to make society better](#How-can-money-be-improved-to-make-society-better)  
+[How to obtain CC](#How-to-obtain-CC)  
+[What can it be used for](#What-can-it-be-used-for)  
+[How can it be safely stored](#How-can-it-be-safely-stored)  
+[What is a CC wallet](#What-is-a-CC-wallet)  
+[How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
+[How to spend CC](#How-to-spend-CC)  
+[What are the regulatory compliance requirements](#What-are-the-regulatory-compliance-requirements)  
+[Quotes](#quotes)  
+[Innovations and disruptions](#Innovations-and-disruptions)  
+[DAG (Directed Acyclic Graph) vs blockchain](#DAG-(Directed-Acyclic-Graph)-vs-blockchain)  
+[Regulations](#Regulations)  
+[The money flower](#The-money-flower)  
+[Cloud based supporting documents](#Cloud-based-supporting-documents)  
+[APPENDIX](#APPENDIX)  
+[NOTES-TIPS-LL(Lessons Learned)](#NOTES-TIPS-LL(Lessons-Learned))  
+[Contributing](#Contributing)  
 
 # News Changelog  
 20210111 added sections after 9 and removed numbering where not necessary.  
@@ -77,14 +77,14 @@ THEN seashells become a medium of exchange (currency) and a way to store wealth 
 (1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
 
-## 2- What are some of the issues and problems with modern money?
-2.1. With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).  
+## What are some of the issues and problems with modern money
+With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).  
 No longer money by the people for the people.  
 
 
-## 3- How can money be improved to make society better?
-3.1. Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.  
-3.2. CC built on cryptology and the internet make money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
+## How can money be improved to make society better
+Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.  
+CC built on cryptology and the internet make money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
 This technology was invented by Satoshi Nakamoto and made public in his 2008 bitcoin white paper.   
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
 It was partly in response to the 2007-2008 worldwide systemic financial and real-estate crash.  
@@ -100,24 +100,24 @@ We call this new form of democracy a DAO Democracy."
 Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- August, Vol 37:4, pp 28-40; Alcor, www.alcor.org. https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28 Version 1.9 2 2016-05-31  
 
 
-## 4- How to obtain CC? 
-4.1. Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
-4.2. See appendix for details on exchanges.  
-4.3. Beware of scams and hacks and illegal unregulated trades-exchanges and unethical operations (pre-mining).  
-4.3.1. ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
+## How to obtain CC 
+Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
+See appendix for details on exchanges.  
+Beware of scams and hacks and illegal unregulated trades-exchanges and unethical operations (pre-mining).  
+ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
 
 
-## 5- What can it be used for? 
-5.1. Peer to peer vale exchanges of products and services (currency), store of value (money and investments)
+## 5- What can it be used for 
+Peer to peer vale exchanges of products and services (currency), store of value (money and investments)
 
 
-## 6- How can it be safely stored? 
-6.1. From the safest to least safe.  
-6.1.1. Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
-6.2. Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
+## How can it be safely stored 
+From the safest to least safe.  
+Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
+Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
 
 
-## 7- What is a CC wallet? 
+## What is a CC wallet 
 Reference (1) (bitaddress.org).  
 A CC wallet is a single pairing of a CC public address (32 characters) with its corresponding CC private key (64 char.).  
 QR codes are used to simplify the entry of the addresses.  
@@ -134,25 +134,25 @@ Example 3 - CSV Comma Separated Values: Index,Address,PrivateKey.
 Notes: these paper wallet have been impaired with red lines to prevent their use.  
 This is a simple option but you can make your own public and private keys compatible with your chosen CC.  
 
-## 8- How to protect a CC wallet? 
-8.1. Print or record the address and private key.  
-8.1.1. Backup the private key.  
-8.1.1.1. (optional) download from github to check the authenticity by matching the SHA256 hash of the HTML with the SHA256 hash available in the signed version history document linked on the footer of this site.).  
-8.1.2. Your private key is a secret do not share it is not public. Whoever you share your private key with can then access and spend all the CC at that address.  
-8.1.3. Your paper wallet is like cash.  
-8.2. Add funds to your wallet by asking for CC to be sent to your CC address.  
-8.3. Your balance can be verified on your smart phone or on blockchain.info or blockexplorer.com by scanning or typing or entering your CC address.  
-8.4. Risks.  
+## How to protect a CC wallet 
+Print or record the address and private key.  
+Backup the private key.  
+(optional) download from github to check the authenticity by matching the SHA256 hash of the HTML with the SHA256 hash available in the signed version history document linked on the footer of this site.).  
+Your private key is a secret do not share it is not public. Whoever you share your private key with can then access and spend all the CC at that address.  
+Your paper wallet is like cash.  
+Add funds to your wallet by asking for CC to be sent to your CC address.  
+Your balance can be verified on your smart phone or on blockchain.info or blockexplorer.com by scanning or typing or entering your CC address.  
+Risks.  
 CC stored on a device are lost if you lose it so you MUST back it up and keep it safe offsite or online and remember your backup location and password. Payments are irreversible (CC sent into the void are lost forever). If you uninstall a wallet you must transfer its funds beforehand. When you delete a CC wallet the wallet's transactions and funds become inaccessible. If an active online wallet needs to be deleted you must first transfer its fund in another wallet such as a cold storage paper wallet. You should then inform whoever will inherit your money when you pass away about the wallet location and secret key otherwise all funds will remain in the wallet forever and never accessible or usable so they will be lost for your posterity. 
 Only install apps you fully trust, malicious apps could be trying to steal your funds.  
 Only keep on your smart phone a small reasonable amount for your routine use and keep your main investments offline.  
 If you have an important amount or CC you should transfer it in cold storage (paper wallet backed up and kept in safe and different location) that is how CC investors keep their funds.  
 
 
-## 9- How to spend CC? 
-9.1. Go to blockchain.info.  
-9.2. Scan the balance of your private key into your account or.  
-9.3. Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
+## How to spend 
+Go to blockchain.info.  
+Scan the balance of your private key into your account or.  
+Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
 
 ## What are the regulatory compliance requirements?
 It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
