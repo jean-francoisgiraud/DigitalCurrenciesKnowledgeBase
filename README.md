@@ -92,8 +92,8 @@ No longer money by the people for the people.
 
 
 ## How can money be improved to make society better
-Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity instead of debt.  
-CC built on cryptology and the internet make money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
+Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity-services instead of debt.  
+CC built on cryptology and the internet makes money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
 This technology was invented by Satoshi Nakamoto and made public in his 2008 bitcoin white paper.   
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
 It was partly in response to the 2007-2008 worldwide systemic financial and real-estate crash.  
@@ -112,8 +112,10 @@ Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- 
 ## How to obtain CC 
 Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
 See appendix for details on exchanges.  
+
 Beware of scams and hacks and illegal unregulated trades-exchanges and unethical operations (pre-mining).  
-ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02). Ponzi, pyramid scheme ICO.
+ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02). Ponzi, pyramid scheme ICO.  
+For example one of the biggest scams in history was [OneCoin](https://en.wikipedia.org/wiki/OneCoin) a 2019 multi-level marketing Ponzi scheme promoted as a cryptocurrency which caused losses of about $4 billion worldwide.  
 
 
 ## Uses 
