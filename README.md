@@ -232,15 +232,14 @@ Signed contributor agreement - ContributorName
 
 Notes: 
 
-## REFERENCES
-Essentials  
-bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).  
-https://github.com/bitaddress/bitaddress (a non GUI alternative to (1)).  
+## References
+https://gbitaddress.org  
+https://github.com/pointbiz/bitaddress.org  
+https://github.com/bitaddress/bitaddress (a non GUI alternative).  
 https://walletgenerator.net.  
 https://en.wikipedia.org/wiki/Dogecoin
 https://en.wikipedia.org/wiki/BitTorrent
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
-Secondaries  
 http://wiki.p2pfoundation.net/DAOs,_Democracy_and_Governance	 
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
 https://letstalkbitcoin.com/blog/post/epicenter-252-ralph-merkle-revolutionizing-democracy-using-daos-rebroadcast  
