@@ -26,13 +26,14 @@ ETH (Ethereum):
 [News changelog](#News-changelog)  
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
+[tldnr](#tldnr)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
 [What is money](#What-is-money)  
 [What are the problems with modern money](#What-are-the-problems-with-modern-money)  
 [How can money be improved to make society better](#How-can-money-be-improved-to-make-society-better)  
 [How to obtain CC](#How-to-obtain-CC)  
-[What can it be used for](#What-can-it-be-used-for)  
-[How can it be safely stored](#How-can-it-be-safely-stored)  
+[Uses](#Uses)  
+[Storage](#Storage)  
 [What is a CC wallet](#What-is-a-CC-wallet)  
 [How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
 [How to spend CC](#How-to-spend-CC)  
@@ -55,7 +56,8 @@ ETH (Ethereum):
 # Definitions and acronyms: 
 Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, Dogecoin etc.  
 DAO = Decentralized Autonomous Organization   
-P2P= Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
+P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
+tldnr = too long did not read.  
 
 Public-key cryptography, or asymmetric cryptography, is a cryptographic system that uses pairs of keys: public keys, which may be disseminated widely, and private keys, which are known only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective security only requires keeping the private key private; the public key can be openly distributed without compromising security. In such a system, any person can encrypt a message using the receiver's public key, but that encrypted message can only be decrypted with the receiver's private key.  
 
@@ -64,6 +66,11 @@ Tokenization: combining public-private key cryptography and a public ledger, any
 # Disclaimer: 
 This is not financial advice (there are no warranties of any types). It is an analysis of the risks and opportunities of CC.  
 CC is a fast changing environment some information herein may have changed since the latest revision.
+
+
+# tldnr
+The current centralised banking system is based on Clearing systems between existing financial institutions (ACH  ACSS SWIFT).  
+Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Examples: bitcoinc btc; ethereum eth; ripple xrp.  
 
 
 # FAQ (Frequently Asked Questions)
@@ -107,11 +114,11 @@ Beware of scams and hacks and illegal unregulated trades-exchanges and unethical
 ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
 
 
-## What can it be used for 
-Peer to peer vale exchanges of products and services (currency), store of value (money and investments)
+## Uses 
+Peer to peer value exchanges of products and services (currency), store of value (money and investments).  
 
 
-## How can it be safely stored 
+## Storage 
 From the safest to least safe.  
 Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
 Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
