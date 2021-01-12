@@ -37,11 +37,10 @@ ETH (Ethereum):
 [What is a CC wallet](#What-is-a-CC-wallet)  
 [How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
 [How to spend CC](#How-to-spend-CC)  
-[What are the regulatory compliance requirements](#What-are-the-regulatory-compliance-requirements)  
+[Regulatory compliance requirements](#regulatory-compliance-requirements)  
 [Quotes](#quotes)  
 [Innovations and disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
-[Regulations](#Regulations)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
 [Cloud based supporting documents](#Cloud-based-supporting-documents)  
 [APPENDIX](#APPENDIX)  
@@ -173,8 +172,13 @@ Go to blockchain.info.
 Scan the balance of your private key into your account or.  
 Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
 
-## What are the regulatory compliance requirements?
-It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory
+## Regulatory compliance requirements
+It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
+
+In Canada crypto currencies are regulated under provincial securities laws.  
+A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
+This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+
 
 ## Quotes  
 Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust.  
@@ -192,11 +196,6 @@ The revolutionary disruption is how tansactions can be done peer to peer without
 Blockchain vs. DAG  
 Blockchains are cryptographically verifiable linked flat, sequential lists. Each new entry (block) includes a reference to a previous one. Traceable blocks are written in a ledger but this type of configuration also causes scalability issues.  
 Directed Acyclic Graphs are implementation of Graphs that allow the network to avoid the limitations found in blockchains.  
-
-## Regulations
-In Canada crypto currencies are regulated under provincial securities laws.  
-A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
-This means thatif you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
 ## The money flower a taxonomy of money
 [My facebook](https://www.facebook.com/photo/?fbid=10226436295602291&set=a.10201657964639503&__cft__[0]=AZUEWd6LnbUgzJicug5_dry1wW1BTbfCZCubfX5rb05751p4jU5pwuY8k7nUTy_eeIXc9oTeb2puO-G7MdLK3e_yWyP2yR-y-HXjsMKArYhQtw&__tn__=EH-R)
