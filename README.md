@@ -228,12 +228,14 @@ You can contribute to this project by reporting issues or bugs by creating a Git
 
 ## Legal
 Signed contributor agreement - ContributorName
-2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, JF Giraud https://github.com/jean-francoisgiraud.  
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, ContributorName https://github.com/ContributorName.  
 
+Example: Signed contributor agreement - ContributorName
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, JF Giraud https://github.com/jean-francoisgiraud.  
 Notes: 
 
 ## References
-https://gbitaddress.org  
+https://bitaddress.org (to generate bitcoin adresses with open source javascript client-side bitcoin wallete generator)  
 https://github.com/pointbiz/bitaddress.org  
 https://github.com/bitaddress/bitaddress (a non GUI alternative).  
 https://walletgenerator.net.  
