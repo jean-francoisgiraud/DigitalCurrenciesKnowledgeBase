@@ -43,9 +43,10 @@ ETH (Ethereum):
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
 [Cloud based supporting documents](#Cloud-based-supporting-documents)  
-[APPENDIX](#APPENDIX)  
 [Notes Tips LL Lessons Learned](#Notes-Tips-LL-Lessons-Learned)  
 [Contributing](#Contributing)  
+[Legal](#Legal)  
+[Appendix](#Appendix)  
 
 # News Changelog  
 To Do: figure out how to show images, links to images in this folder do not appear automatically.
@@ -209,16 +210,6 @@ MoneyFlower git jpg (https://github.com/jean-francoisgiraud/DigitalCurrenciesKno
 [My google document](https://docs.google.com/document/d/1MYqwP2GnMW79AKyrDpBttQ4l4NXbyVyBKYrGOTze8oU)  
 
 
-## APPENDIX
-BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
-ID,COMPANY,FEES%,NOTES.  
-KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense).  
-CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC).  
-BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%).  
-KU,Kucoin,note,low fees.  
-LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
-QU,Quadriga,1.5-5,complex,CanadianCompany.  
-
 ## Notes Tips LL Lessons Learned
 Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
 Always Transfer funds to cold wallets.  
@@ -232,7 +223,12 @@ Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).
 Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
 
 ## Contributing
-You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.
+You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.  
+
+## Legal
+2021-01-12. I hereby agree to the terms of this documnet "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with MD5 checksum . I furthermore declare that I am authorized and able to make this agreement and sign this declaration. 
+Signed, JF Giraud https://github.com/jean-francoisgiraud
+
 
 ## REFERENCES
 Essentials  
@@ -267,3 +263,13 @@ https://wiki.linuxfoundation.org/_media/openchain/openchainspec-current.pdf
 https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-source-strategy/  
 https://www.openchainproject.org/resources/faq  
 https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/canada
+
+## APPENDIX
+BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
+ID,COMPANY,FEES%,NOTES.  
+KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense).  
+CO,Coinbase,4,limited amounts high fees are for buy-only) the limited cryptos (BTC ETH LTC).  
+BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fees (dynamic ~0.1%).  
+KU,Kucoin,note,low fees.  
+LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
+QU,Quadriga,1.5-5,complex,CanadianCompany.  
