@@ -226,9 +226,10 @@ Low trade volume (for example in Canada) lead to higher spreads (wider gaps in b
 You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.  
 
 ## Legal
-2021-01-12. I hereby agree to the terms of this documnet "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with MD5 checksum . I furthermore declare that I am authorized and able to make this agreement and sign this declaration. 
-Signed, JF Giraud https://github.com/jean-francoisgiraud
+Signed contributor agreement - ContributorName
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, JF Giraud https://github.com/jean-francoisgiraud.  
 
+Notes: 
 
 ## REFERENCES
 Essentials  
