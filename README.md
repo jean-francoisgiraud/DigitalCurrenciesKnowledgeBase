@@ -130,7 +130,7 @@ Cold electronic wallet, Smartphone wallet, online wallet, exchange.
 
 
 ## What is a CC wallet 
-Reference (1) (bitaddress.org).  
+Reference (bitaddress.org).  
 A CC wallet is a single pairing of a CC public address (32 characters) with its corresponding CC private key (64 char.).  
 QR codes are used to simplify the entry of the addresses.  
 Below are 3 examples (among many other types) of bitcoin paper wallet (combination of public and private keys).  
@@ -155,6 +155,21 @@ Add funds to this wallet by instructing others to send bitcoins to your Bitcoin 
 Check your balance by going to blockchain.info or blockexplorer.com and entering your Bitcoin address.  
 Spend your bitcoins by going to blockchain.info and sweep the full balance of your private key into your account at their website. You can also spend your funds by downloading one of the popular bitcoin p2p clients and importing your private key to the p2p client wallet. Keep in mind when you import your single key to a bitcoin p2p client and spend funds your key will be bundled with other private keys in the p2p client wallet. When you perform a transaction your change will be sent to another bitcoin address within the p2p client wallet. You must then backup the p2p client wallet and keep it safe as your remaining bitcoins will be stored there. Satoshi advised that one should never delete a wallet.  
 Your Bitcoin Private Key is a unique secret number that only you know. It can be encoded in a number of different formats. Below we show the Bitcoin Address and Public Key that corresponds to your Private Key as well as your Private Key in the most popular encoding formats (WIF, WIFC, HEX, B64). Bitcoin v0.6+ stores public keys in compressed format. The client now also supports import and export of private keys with importprivkey/dumpprivkey. The format of the exported private key is determined by whether the address was generated in an old or new wallet.  
+
+Why should I use a paper wallet ? Advantages of a paper wallet:  
+Not subject to malwares and keyloggers.  
+Relying on a third party (honesty or capacity to protect your coins) is not required.  
+Hardware failure. You won't lose your coins when or if your device break and you have inadequate backup.  
+
+Example generating a bitcoin wallet using walletgenerator.
+Step 0 goto https://walletgenerator.net/  
+Step 1. Generate new address. Choose your currency and click on the "Generate new address" button.  
+Step 2. Print the Paper Wallet. Click the Paper Wallet tab and print the page on high quality setting. Never save the page as a PDF file to print it later since a file is more likely to be hacked than a piece of paper.  
+Step 3. Fold the Paper Wallet. Fold your new Paper wallet following the lines. Fold in half lengthwise, and then in three widthwise.
+You can insert one side inside the other to lock the wallet.  
+Step 4. Share your public address. Use your public address to receive money from other crypto-currency users. You can share your public address as much as you want.  
+Step 5. Keep your private key secret. The private key is literally the keys to your coins, if someone was to obtain it, they could withdraw the funds currently in the wallet, and any funds that might be deposited in that wallet.  
+Security: Test spending a small amount before receiving any large payments.  
 
 
 Further reading:  
@@ -248,7 +263,7 @@ bitaddress.org (to generate bitcoin adresses with open source javascript client-
 https://github.com/pointbiz/bitaddress.org  
 https://github.com/bitaddress/bitaddress (a non GUI alternative).  
 https://walletgenerator.net.  
-https://en.wikipedia.org/wiki/Dogecoin
+https://en.wikipedia.org/wiki/Dogecoin  
 https://en.wikipedia.org/wiki/BitTorrent
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
 http://wiki.p2pfoundation.net/DAOs,_Democracy_and_Governance	 
