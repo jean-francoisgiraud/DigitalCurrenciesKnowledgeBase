@@ -146,7 +146,16 @@ Example 3 - CSV Comma Separated Values: Index,Address,PrivateKey.
 Notes: these paper wallet have been impaired with red lines to prevent their use.  
 This is a simple option but you can make your own public and private keys compatible with your chosen CC. 
 
-A cryptocurrency wallet is a way (physical medium, program or a service) to store public and/or private keys for cryptocurrency transactions. It can also encrypt and sign information. Signing is the evidence of the execution of a smart contract. Smart contracts are digitally signed in the same way a cryptocurrency transaction is signed. The signing keys are held in a cryptocurrency wallet.  
+A cryptocurrency wallet is a way (physical medium, program or a service) to store public and/or private keys for cryptocurrency transactions. It can also encrypt and sign information. Signing is the evidence of the execution of a smart contract. Smart contracts are digitally signed in the same way a cryptocurrency transaction is signed. The signing keys are held in a cryptocurrency wallet. 
+
+A bitcoin wallet example from bitadress.org.  
+A Bitcoin wallet is as simple as a single pairing of a Bitcoin address with its corresponding Bitcoin private key. Such a wallet has been generated for you in your web browser and is displayed above.  
+To safeguard this wallet you must print or otherwise record the Bitcoin address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you are familiar with PGP you can download this all-in-one HTML page and check that you have an authentic version from the author of this site by matching the SHA256 hash of this HTML with the SHA256 hash available in the signed version history document linked on the footer of this site. If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable. Your Bitcoin private key should be kept a secret. Whomever you share the private key with has access to spend all the bitcoins associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.  
+Add funds to this wallet by instructing others to send bitcoins to your Bitcoin address.  
+Check your balance by going to blockchain.info or blockexplorer.com and entering your Bitcoin address.  
+Spend your bitcoins by going to blockchain.info and sweep the full balance of your private key into your account at their website. You can also spend your funds by downloading one of the popular bitcoin p2p clients and importing your private key to the p2p client wallet. Keep in mind when you import your single key to a bitcoin p2p client and spend funds your key will be bundled with other private keys in the p2p client wallet. When you perform a transaction your change will be sent to another bitcoin address within the p2p client wallet. You must then backup the p2p client wallet and keep it safe as your remaining bitcoins will be stored there. Satoshi advised that one should never delete a wallet.  
+Your Bitcoin Private Key is a unique secret number that only you know. It can be encoded in a number of different formats. Below we show the Bitcoin Address and Public Key that corresponds to your Private Key as well as your Private Key in the most popular encoding formats (WIF, WIFC, HEX, B64). Bitcoin v0.6+ stores public keys in compressed format. The client now also supports import and export of private keys with importprivkey/dumpprivkey. The format of the exported private key is determined by whether the address was generated in an old or new wallet.  
+
 
 Further reading:  
 [Wiki Digital wallet](https://en.wikipedia.org/wiki/Digital_wallet)  
@@ -235,7 +244,7 @@ Example: Signed contributor agreement - ContributorName
 Notes: 
 
 ## References
-https://bitaddress.org (to generate bitcoin adresses with open source javascript client-side bitcoin wallete generator)  
+bitaddress.org (to generate bitcoin adresses with open source javascript client-side bitcoin wallete generator)  
 https://github.com/pointbiz/bitaddress.org  
 https://github.com/bitaddress/bitaddress (a non GUI alternative).  
 https://walletgenerator.net.  
