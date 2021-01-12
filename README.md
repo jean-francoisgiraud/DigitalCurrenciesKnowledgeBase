@@ -45,17 +45,19 @@ ETH (Ethereum):
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
 [Cloud based supporting documents](#Cloud-based-supporting-documents)  
 [APPENDIX](#APPENDIX)  
-[NOTES TIPS LL Lessons Learned](#NOTES-TIPS-LL-Lessons-Learned)  
+[Notes Tips LL Lessons Learned](#Notes-Tips-LL-Lessons-Learned)  
 [Contributing](#Contributing)  
 
 # News Changelog  
-20210111 added sections after 9 and removed numbering where not necessary.  
+To Do: figure out how to show images, links to images in this folder do not appear automatically.
+20210111 added sections after 9 and removed numbering where not necessary. Index is now hyperlinked to sections. 
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
 Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, Dogecoin etc.  
-DAO = Decentralized Autonomous Organization   
+DAO = Decentralized Autonomous Organization.  
+ICO = Initial coin offering.
 P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
 tldnr = too long did not read.  
 
@@ -111,7 +113,7 @@ Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- 
 Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
 See appendix for details on exchanges.  
 Beware of scams and hacks and illegal unregulated trades-exchanges and unethical operations (pre-mining).  
-ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02)
+ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02). Ponzi, pyramid scheme ICO.
 
 
 ## Uses 
@@ -139,7 +141,15 @@ Example 3 - CSV Comma Separated Values: Index,Address,PrivateKey.
 3,"1HwWtATHCoVQFdpyTfNRAwmodgDtioUod8","KzdG4LFgPgfBMDJ6iiZ9LgPD1JXrree5hapaETBpmrsVuCH9NjGD".  
 
 Notes: these paper wallet have been impaired with red lines to prevent their use.  
-This is a simple option but you can make your own public and private keys compatible with your chosen CC.  
+This is a simple option but you can make your own public and private keys compatible with your chosen CC. 
+
+A cryptocurrency wallet is a way (physical medium, program or a service) to store public and/or private keys for cryptocurrency transactions. It can also encrypt and sign information. Signing is the evidence of the execution of a smart contract. Smart contracts are digitally signed in the same way a cryptocurrency transaction is signed. The signing keys are held in a cryptocurrency wallet.  
+
+Further reading:  
+[Wiki Digital wallet](https://en.wikipedia.org/wiki/Digital_wallet)  
+[Cryptocurrency wallet (cold storage)](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)  
+[An example paper printable bitcoin wallet consisting of one bitcoin address for receiving and the corresponding private key for spending.](https://en.wikipedia.org/wiki/Cryptocurrency_wallet#/media/File:A_paper_printable_Bitcoin_wallet_consisting_of_one_bitcoin_address_for_receiving_and_the_corresponding_private_key_for_spending.png)  
+
 
 ## How to protect a CC wallet 
 Print or record the address and private key.  
@@ -208,7 +218,7 @@ KU,Kucoin,note,low fees.
 LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
 QU,Quadriga,1.5-5,complex,CanadianCompany.  
 
-## NOTES TIPS LL Lessons Learned
+## Notes Tips LL Lessons Learned
 Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
 Always Transfer funds to cold wallets.  
 Transferring CC to national currencies via banks is never fast or easy.  
