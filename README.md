@@ -218,9 +218,9 @@ You can contribute to this project by reporting issues or bugs by creating a Git
 
 ## REFERENCES
 Essentials  
-(1) bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).  
-(2) https://github.com/bitaddress/bitaddress (a non GUI alternative to (1)).  
-(3) https://walletgenerator.net.  
+bitaddress.org (JavaScript copyrights are included in the source which is available on their public and open source at https://github.com/pointbiz/bitaddress.org).  
+https://github.com/bitaddress/bitaddress (a non GUI alternative to (1)).  
+https://walletgenerator.net.  
 https://en.wikipedia.org/wiki/Dogecoin
 https://en.wikipedia.org/wiki/BitTorrent
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
@@ -230,6 +230,7 @@ http://merkle.com/papers/DAOdemocracyDraft.pdf
 https://letstalkbitcoin.com/blog/post/epicenter-252-ralph-merkle-revolutionizing-democracy-using-daos-rebroadcast  
 https://www.coindesk.com/ralph-merkle-is-back-and-he-wants-to-resurrect-daos  
 https://hackernoon.com/daos-and-the-future-of-work-97b4c076f288  
+https://en.wikipedia.org/wiki/Digital_currency  
 https://medium.com/ostdotcom/decoding-token-economics-insights-from-our-token-engineering-token-economy-design-workshop-at-cfd1a0e39421 https://medium.com/prysmeconomics/economics-of-tokenized-incentives-1-intro-to-pay-for-performance-84e3b9cfffa  
 https://medium.com/coinmonks/incentive-fundamentals-for-a-token-economy-3f161ac04ac4  
 https://medium.com/coinmonks/hyperledger-fabric-smart-contract-data-model-protobuf-to-chaincode-state-mapping-191cdcfa0b78  
