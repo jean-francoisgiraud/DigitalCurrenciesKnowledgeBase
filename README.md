@@ -46,6 +46,7 @@ ETH (Ethereum):
 [Notes Tips LL Lessons Learned](#Notes-Tips-LL-Lessons-Learned)  
 [Contributing](#Contributing)  
 [Legal](#Legal)  
+[References](#References)  
 [Appendix](#Appendix)  
 
 # News Changelog  
@@ -265,7 +266,7 @@ https://www.linuxfoundation.org/resources/open-source-guides/setting-an-open-sou
 https://www.openchainproject.org/resources/faq  
 https://www.globallegalinsights.com/practice-areas/blockchain-laws-and-regulations/canada
 
-## APPENDIX
+## Appendix
 BUY SELL TRADE CRYPTOCURENCIES IN CANADA.  
 ID,COMPANY,FEES%,NOTES.  
 KR,Kraken,,world#2 in volume; serve NA except NY (because BitLicense).  
