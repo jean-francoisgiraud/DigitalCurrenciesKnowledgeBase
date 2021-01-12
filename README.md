@@ -42,6 +42,7 @@ ETH (Ethereum):
 [Innovations and disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
+[Offline Crypto](#Offline)  
 [Cloud based supporting documents](#Cloud-based-supporting-documents)  
 [Notes Tips LL Lessons Learned](#Notes-Tips-LL-Lessons-Learned)  
 [Contributing](#Contributing)  
@@ -61,6 +62,7 @@ DAO = Decentralized Autonomous Organization.
 ICO = Initial coin offering.
 P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
 tldnr = too long did not read.  
+WIF = Wallet Import Format (WIF, also known as Wallet Export Format) is a way of encoding a private ECDSA key so as to make it easier to copy. A private key is a secret code that allows bitcoins to be spent.  
 
 Public-key cryptography, or asymmetric cryptography, is a cryptographic system that uses pairs of keys: public keys, which may be disseminated widely, and private keys, which are known only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective security only requires keeping the private key private; the public key can be openly distributed without compromising security. In such a system, any person can encrypt a message using the receiver's public key, but that encrypted message can only be decrypted with the receiver's private key.  
 
@@ -130,6 +132,9 @@ Cold electronic wallet, Smartphone wallet, online wallet, exchange.
 
 
 ## What is a CC wallet 
+
+This page contains sample addresses and/or private keys. Do not send bitcoins to or import any sample keys; you will lose your money.  
+
 Reference (bitaddress.org).  
 A CC wallet is a single pairing of a CC public address (32 characters) with its corresponding CC private key (64 char.).  
 QR codes are used to simplify the entry of the addresses.  
@@ -171,6 +176,10 @@ Step 4. Share your public address. Use your public address to receive money from
 Step 5. Keep your private key secret. The private key is literally the keys to your coins, if someone was to obtain it, they could withdraw the funds currently in the wallet, and any funds that might be deposited in that wallet.  
 Security: Test spending a small amount before receiving any large payments.  
 
+Generating your own private key using a dice and bitadress.org  
+How do I make a wallet using dice? What is B6?  
+An important part of creating a Bitcoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Bitcoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Bitcoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used. [WIF Wallet Import Format, also known as Wallet Export Format is a way of encoding a private ECDSA key so as to make it easier to copy.A testing suite is available for encoding and decoding of WIF at: http://gobittest.appspot.com/PrivateKey](https://en.bitcoin.it/wiki/Wallet_import_format)
+
 
 Further reading:  
 [Wiki Digital wallet](https://en.wikipedia.org/wiki/Digital_wallet)  
@@ -194,9 +203,9 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 
 
 ## How to spend 
-Go to blockchain.info.  
-Scan the balance of your private key into your account or.  
-Store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
+Go to [blockchain.com/explorer](https://www.blockchain.com/explorer)  
+In the search tool enter your public Bitcoin Adress to see how much funds you have.  
+Or store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
 
 ## Regulatory compliance requirements
 It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
@@ -230,6 +239,10 @@ Wikipedia png (https://en.wikipedia.org/wiki/Digital_currency#/media/File:Money_
 
 MoneyFlower git jpg (https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase/blob/master/MoneyFlower.jpg)
 
+## Offline  
+[Offline transactions Crypto without the interne] (https://cointelegraph.com/news/offline-transactions-the-final-frontier-for-global-crypto-adoption)  
+Why? Because a cold wallet (not connected to the internet) is protected from online hackers and internet failures or controls by ISPs.  
+These are based on [meshnets and wireless radio](https://en.wikipedia.org/wiki/Mesh_networking)
 
 ## Cloud based supporting documents  
 [My google document](https://docs.google.com/document/d/1MYqwP2GnMW79AKyrDpBttQ4l4NXbyVyBKYrGOTze8oU)  
@@ -262,7 +275,9 @@ Notes:
 bitaddress.org (to generate bitcoin adresses with open source javascript client-side bitcoin wallete generator)  
 https://github.com/pointbiz/bitaddress.org  
 https://github.com/bitaddress/bitaddress (a non GUI alternative).  
-https://walletgenerator.net.  
+https://walletgenerator.net  
+https://en.bitcoin.it/wiki/Wallet_import_format  
+https://allprivatekeys.com/  
 https://en.wikipedia.org/wiki/Dogecoin  
 https://en.wikipedia.org/wiki/BitTorrent
 http://merkle.com/papers/DAOdemocracyDraft.pdf  
@@ -300,3 +315,40 @@ BI,Binance,,note only crypto-crypto best used to exchange cryptos low trading fe
 KU,Kucoin,note,low fees.  
 LB,LocalBTC,high,LocalBitcoins.com several traders (cash in person for BTC at their offices).  
 QU,Quadriga,1.5-5,complex,CanadianCompany.  
+
+[Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)  
+Satoshi Nakamoto satoshin@gmx.com www.bitcoin.org  
+
+Abstract.  
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.  
+
+1. Introduction
+Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust based model. Completely non-reversible transactions are not really possible, since financial institutions cannot avoid mediating disputes. The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for nonreversible services. With the possibility of reversal, the need for trust spreads. Merchants must be wary of their customers, hassling them for more information than they would otherwise need. A certain percentage of fraud is accepted as unavoidable. These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party. What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party. Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In
+this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions. The system is secure as long as honest nodes collectively control more CPU power than any cooperating group of attacker nodes.  
+
+12. Conclusion  
+We have proposed a system for electronic transactions without relying on trust. We started with the usual framework of coins made from digital signatures, which provides strong control of ownership, but is incomplete without a way to prevent double-spending. To solve this, we proposed a peer-to-peer network using proof-of-work to record a public history of transactions that quickly becomes computationally impractical for an attacker to change if honest nodes control a majority of CPU power. The network is robust in its unstructured simplicity. Nodes work all at once with little coordination. They do not need to be identified, since messages are not routed to any particular place and only need to be delivered on a best effort basis. Nodes can leave and rejoin the network at will, accepting the proof-of-work chain as proof of what happened while they were gone. They vote with their CPU power, expressing their acceptance of
+valid blocks by working on extending them and rejecting invalid blocks by refusing to work on them. Any needed rules and incentives can be enforced with this consensus mechanism.  
+
+[Lightning Network Scalable, Instant Bitcoin/Blockchain Transactions](https://lightning.network/)  
+[Summary](https://lightning.network/lightning-network-summary.pdf)  
+The Lightning Network is a decentralized system for instant, high-volume micropayments that removes the risk of delegating custody of funds to trusted third parties. Bitcoin, the world's most widely used and valuable digital currency, allows anyone to send value without a
+trusted intermediary or depository. Bitcoin contains an advanced scripting system allowing users to program instructions for funds. There are, however, some drawbacks to bitcoin's decentralized design. Transactions confirmed on the bitcoin blockchain take up to one hour before they are irrevesible. Micropayments, or payments less than a few cents, are inconsistently confirmed, and fees render such
+transactions unviable on the network today. The Lightning Network solves these problems. It is one of the first implementations of a multi-party Smart Contract (programmable money) using bitcoin's built-in scripting. The Lightning Network is leading technological development in multiparty financial computations with bitcoin.  
+How it Works. Funds are placed into a two-party, multisignature "channel" bitcoin address. This channel is represented as an entry on the bitcoin public ledger. In order to spend funds from the channel, both parties must agree on the new balance. The current balance is stored as the most recent transaction signed by both parties, spending from the channel address. To make a payment, both parties sign a new exit transaction spending from the channel address. All old exit transactions are invalidated by doing so. The Lightning Network does not require cooperation from the counterparty to exit the channel. Both parties have the option to unilaterally close the channel, ending their relationship. Since all parties have multiple multisignature channels with many different users on this network, one can send a payment to any other party across this network. By embedding the payment conditional upon knowledge of a secure cryptographic hash, payments can be made across a network of channels without the need for any party to have unilateral custodial ownership of funds. The 
+Lightning Network enables what was previously not possible with trusted financial systems vulnerable to monopolies—without the need for custodial trust and ownership, participation on the network can be dynamic and open for all.  
+
+[Wikipedia Lightning_Network](https://en.wikipedia.org/wiki/Lightning_Network)  
+The Lightning Network is a "layer 2" payment protocol that operates on top of a blockchain-based cryptocurrency (like bitcoin). It is intended to enable fast transactions among participating nodes and has been proposed as a solution to the bitcoin scalability problem. It features a peer-to-peer system for making micropayments of cryptocurrency through a network of bidirectional payment channels without delegating custody of funds. Lightning Network implementation also simplifies atomic swaps. Normal use of the Lightning Network consists of opening a payment channel by committing a funding transaction to the relevant base blockchain (layer 1), followed by making any number of Lightning Network transactions that update the tentative distribution of the channel's funds without broadcasting those to the blockchain, optionally followed by closing the payment channel by broadcasting the final version of the settlement transaction to distribute the channel's funds. To perform as intended, Lightning Network required a transaction malleability fix in the layer 1 blockchain, such as Segregated Witness (SegWit) in bitcoin.  
+
+
+[blockstream.com lightning](https://blockstream.com/lightning/)  
+The Lightning Network reduces Bitcoin transaction times and fees. This is achieved by reducing the number of transactions that need to be forever stored on the blockchain. Instead, funds are held in smart contract “payment channels,” and transactions are exchanged outside of the blockchain between transacting users. The final state of the payment channel balance can be broadcast to the Bitcoin network at any time, securely settling the funds on the blockchain.
+
+[Blockchain vs Tangle: Untangling The IOTA Tangle](https://academy.ivanontech.com/blog/blockchain-vs-tangle-untangling-the-iota-tangle)  
+
+
+
+
+
+
