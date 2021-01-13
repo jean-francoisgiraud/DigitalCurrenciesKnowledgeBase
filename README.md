@@ -1,5 +1,5 @@
-# Crypto-Currencies Design and Development 
-### Author: Jean-Francois Giraud
+# Crypto-Currencies Design and Development (Engineering)  
+### Author: Jean-Francois Giraud eng.
 ### Contacts:  
 [Facebook](https://www.facebook.com/jeanfrancois.giraud.52/)  
 [Twitter](https://twitter.com/8289468)  
@@ -58,7 +58,7 @@ ETH (Ethereum):
 [Legal](#Legal)  
 [References](#References)  
 [Appendix](#Appendix)
-[News Changelog](#News-changelog)  
+[Changelog](#changelog)  
 
 # Definitions and Acronyms: 
 CC = Crypto Currencies. (Bitcoin Ether LiteCoin Dash Dogecoin etc)  
@@ -86,11 +86,12 @@ CC is a fast changing environment some information herein may have changed since
 # FAQ (Frequently Asked Questions)
 
 ## What is money 
-A way to exchange and store value. A social agreement contract on what is good and valuable. It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example:  
-IF individuals want to barter  
-AND they agree (based on the amount of work required) that 10 fish = 1 chicken.  
-AND 1 fish = 1 seashell (for conveniencel).  
-THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
+A way to exchange and store value. A social agreement (contract) on what is good and valuable. It starts naturally as a decentralised peer to peer agreement, contract, protocol on what is valuable and how much value it has. For example:  
+
+IF a group of individuals want to exchange products  
+AND they agree (based on the amount of resources (time effort) required to produce the products) that for example 10 fish = 1 chicken  
+AND that 1 fish = 1 seashell (representing products with a symbol like seashells or gold instead of products is more practical)  
+THEN seashells become a) a medium of exchange (a currency) and b) a way to store wealth (money) for future use within that group  
 
 ## What are the problems with modern money
 With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.). No longer money by the people for the people.  
