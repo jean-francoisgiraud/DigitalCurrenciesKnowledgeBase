@@ -10,7 +10,7 @@
 # Services
 To hire the author please use the contacts section.  
 We can provide technical support and manage your crypto-currencies, smart-contract, blockchain needs.  
-For our DCS (Digital Certification Services) please [click here](https://github.com/jean-francoisgiraud/DCS) 
+For our DCS (Digital Certification Services) please [click here](https://github.com/jean-francoisgiraud/DigitalCertificationServices) 
 
 Payments and Donations to this project are appreciated.   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
