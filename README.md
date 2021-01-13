@@ -38,6 +38,8 @@ ETH (Ethereum):
 [How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
 [How to spend CC](#How-to-spend-CC)  
 [Regulatory compliance requirements](#regulatory-compliance-requirements)  
+[kippu](#kippu)  
+[SLP](#SLP)  
 [Quotes](#quotes)  
 [Innovations and disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
@@ -52,8 +54,9 @@ ETH (Ethereum):
 
 # News Changelog  
 To Do: figure out how to show images, links to images in this folder do not appear automatically.
+20210111 added section on kippu (KIP) and BCH SLP.  
 20210111 added sections after 9 and removed numbering where not necessary. Index is now hyperlinked to sections. 
-2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance	Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
+2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance. Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
@@ -213,6 +216,21 @@ It depends on the country where the CC are used. see https://en.wikipedia.org/wi
 In Canada crypto currencies are regulated under provincial securities laws.  
 A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
 This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+
+## kippu  
+To anyone interested in learning and experimenting with cryptocurrencies. I have created and am managing the cryptocurrency KIP.  The kippu coin is now listed on bitcoin.com here:  
+https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
+
+You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
+
+To receive the KIPs you earned.  
+- Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
+- Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
+- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP.  
+
+
+## SLP
+[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash.  
 
 
 ## Quotes  
