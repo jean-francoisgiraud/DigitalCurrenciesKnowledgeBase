@@ -1,5 +1,5 @@
-# Introduction to CryptoCurrencies
-### Author: JF Giraud
+# Crypto-Currencies Design and Development 
+### Author: Jean-Francois Giraud
 ### Contacts:  
 [Facebook](https://www.facebook.com/jeanfrancois.giraud.52/)  
 [Twitter](https://twitter.com/8289468)  
@@ -7,8 +7,10 @@
 [Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
 
-# Donations
-Donations to this project are going directly to the developing team.   
+# Support
+To hire the author please use the contacts section.  
+
+Donations to this project are appreciated.   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
 BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
 KIP (kippu on SLP): qz67exr580g5wz0rrsypnfea9jc9w93arqkv7sfxws  
@@ -28,7 +30,7 @@ ETH (Ethereum):
 
 # Table of Contents
 [Contacts](#contacts)  
-[Donations](#donations)  
+[Support](#support)  
 [News Changelog](#News-changelog)  
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
