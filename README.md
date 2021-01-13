@@ -57,7 +57,7 @@ ETH (Ethereum):
 [Contributing](#Contributing)  
 [Legal](#Legal)  
 [References](#References)  
-[Appendix](#Appendix)
+[Appendix](#Appendix)  
 [Changelog](#changelog)  
 
 # Definitions and Acronyms: 
