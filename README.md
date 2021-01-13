@@ -41,7 +41,6 @@ ETH (Ethereum):
 [kippu](#kippu)  
 [SLP](#SLP)  
 [SLP vs ERC](#SLP-vs-ERC)  
-[Quotes](#quotes)  
 [Innovations and disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
@@ -82,8 +81,8 @@ CC is a fast changing environment some information herein may have changed since
 
 
 # tldnr
-The current centralised banking system is based on Clearing systems between existing financial institutions (ACH  ACSS SWIFT).  
-Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Examples: bitcoinc btc; ethereum eth; ripple xrp.  
+Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust. Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
+The current centralised banking system is based on clearing systems (databases of financial transactions synchronizing their ledgers typically once a day at nignt) between existing financial institutions (ACH  ACSS SWIFT). Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Decentralised money is more democratic (money by and for the people).   
 
 
 # FAQ (Frequently Asked Questions)
@@ -246,16 +245,12 @@ SLP pros: Simpler (no need to code in solidity). Transaction fees are much cheap
 ERC-20 pros: compatible with metamask a crypto wallet for chrome and brave.  Transactions are faster (15 sec/block). Smart contracts.  
 
 SLP cons: Transactions are slower (10 min/block vs ERC-20 15 sec/block). Require the electron cash wallet.  
-ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. harder to maintain.  
+ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. Harder to understand and maintain.  
 
 
 ## ERC-20  
 [What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
 ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
-
-## Quotes  
-Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust.  
-Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
 
 ## Innovations and disruptions  
 Disruption is a new buzzword.  
