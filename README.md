@@ -210,7 +210,9 @@ A “security” means “an investment contract” which require: an investment
 This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
 ## kippu  
-To anyone interested in learning and experimenting with cryptocurrencies. I have created and am managing the cryptocurrency KIP.  The kippu coin is now listed on bitcoin.com here:  
+kippus (KIP) are tokens representing real-world assets, products, services. People can earn kippu credits by providing products/services to their community. kippus can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+
+To anyone interested in learning and experimenting with cryptocurrencies. The kippu coin is listed on bitcoin.com here:  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
 
 You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
@@ -218,12 +220,15 @@ You can earn, spend KIP (kippu) by trading, providing, receiving, bartering prod
 To receive the KIPs you earned.  
 - Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
 - Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
-- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP.  
+- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP. 
+
+The original kippus were developed in Japan as a sectoral(1) civic mutual credit currencies (not crypto) in 1995. [Wikipedia Reference](https://en.wikipedia.org/wiki/Fureai_kippu)  
+(1) A sectoral currency is a form of complementary currency that is restricted to a specific sector it can make people provide the type of services they themselves require or intend to use in the future.  
 
 ## SLP
 [SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
 [Electron Cash - Lightweight Bitcoin Cash client](#https://github.com/Electron-Cash/Electron-Cash).  
-SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
+SLP is used for token implementation and is similar to bitcoin. SLP tokens are valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
 ## ERC-20  
 [What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
