@@ -7,13 +7,16 @@
 [Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
 [Google Sites](https://sites.google.com/site/8289468canadainc)  
 
-# Support
+# Services
 To hire the author please use the contacts section.  
+We can provide technical support and manage your crypto-currencies, smart-contract, blockchain needs.  
+For our DCS (Digital Certification Services) please [click here](https://github.com/jean-francoisgiraud/DCS) 
 
-Donations to this project are appreciated.   
+Payments and Donations to this project are appreciated.   
 BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
 BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
 KIP (kippu on SLP): qz67exr580g5wz0rrsypnfea9jc9w93arqkv7sfxws  
+For Paypal and Interrac please contact us.  
 
 <!-- below is 'commented out' or invisible to the reader unless in edit mode
 # Donations
@@ -29,7 +32,7 @@ ETH (Ethereum):
 
 # Table of Contents
 [Contacts](#contacts)  
-[Support](#support)  
+[Services](#services)  
 [Definitions and Acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
 [Abstract](#Abstract)  
