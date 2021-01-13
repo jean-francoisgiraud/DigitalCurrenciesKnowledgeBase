@@ -40,6 +40,7 @@ ETH (Ethereum):
 [Regulatory compliance requirements](#regulatory-compliance-requirements)  
 [kippu](#kippu)  
 [SLP](#SLP)  
+[SLP vs ERC](#SLP-vs-ERC)  
 [Quotes](#quotes)  
 [Innovations and disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
@@ -65,9 +66,13 @@ DAO = Decentralized Autonomous Organization.
 ICO = Initial coin offering.
 P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
 tldnr = too long did not read.  
+SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
+SPV = Simplified Payment Verification  
 WIF = Wallet Import Format (WIF, also known as Wallet Export Format) is a way of encoding a private ECDSA key so as to make it easier to copy. A private key is a secret code that allows bitcoins to be spent.  
 
 Public-key cryptography, or asymmetric cryptography, is a cryptographic system that uses pairs of keys: public keys, which may be disseminated widely, and private keys, which are known only to the owner. The generation of such keys depends on cryptographic algorithms based on mathematical problems to produce one-way functions. Effective security only requires keeping the private key private; the public key can be openly distributed without compromising security. In such a system, any person can encrypt a message using the receiver's public key, but that encrypted message can only be decrypted with the receiver's private key.  
+
+[SPV (Simplified Payment Verification)](https://electroncash.org/) was first described by Satoshi Nakamoto in the original Bitcoin whitepaper. This method allows a wallet to provide strong security without the need for downloading the blockchain or running a full node. SPV lets you validate your own transactions by ensuring they are confirmed in the blockchain. It uses the best header chain with the most cumulative proof of work and the correct hashing difficulty level. Electron Cash relies on a distributed network of servers which handle the heaviest part of blockchain operations. Your private keys sign transactions locally. They are never sent to the servers.  
 
 Tokenization: combining public-private key cryptography and a public ledger, any number of tokens can be created on a blockchain.  
 
@@ -230,8 +235,23 @@ To receive the KIPs you earned.
 
 
 ## SLP
-[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash.  
+[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
+[Electron Cash - Lightweight Bitcoin Cash client](#https://github.com/Electron-Cash/Electron-Cash).  
+SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
 
+## SLP vs ERC
+SLP vs ERC-20 pros and cons  
+
+SLP pros: Simpler (no need to code in solidity). Transaction fees are much cheaper.  
+ERC-20 pros: compatible with metamask a crypto wallet for chrome and brave.  Transactions are faster (15 sec/block). Smart contracts.  
+
+SLP cons: Transactions are slower (10 min/block vs ERC-20 15 sec/block). Require the electron cash wallet.  
+ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. harder to maintain.  
+
+
+## ERC-20  
+[What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
+ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
 
 ## Quotes  
 Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency buy that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money but change is difficult. So fist they denied it was real money, then they bargained it to make it more palatable to regulators and the corporate boardrooms. Bitcoin is not smooth jazz, it is disruptive punk rock. The first completely decentralized transnational platform for exchanging value and trust.  
@@ -340,11 +360,11 @@ Satoshi Nakamoto satoshin@gmx.com www.bitcoin.org
 Abstract.  
 A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. We propose a solution to the double-spending problem using a peer-to-peer network. The network timestamps transactions by hashing them into an ongoing chain of hash-based proof-of-work, forming a record that cannot be changed without redoing the proof-of-work. The longest chain not only serves as proof of the sequence of events witnessed, but proof that it came from the largest pool of CPU power. As long as a majority of CPU power is controlled by nodes that are not cooperating to attack the network, they'll generate the longest chain and outpace attackers. The network itself requires minimal structure. Messages are broadcast on a best effort basis, and nodes can leave and rejoin the network at will, accepting the longest proof-of-work chain as proof of what happened while they were gone.  
 
-1. Introduction
+Introduction
 Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust based model. Completely non-reversible transactions are not really possible, since financial institutions cannot avoid mediating disputes. The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions, and there is a broader cost in the loss of ability to make non-reversible payments for nonreversible services. With the possibility of reversal, the need for trust spreads. Merchants must be wary of their customers, hassling them for more information than they would otherwise need. A certain percentage of fraud is accepted as unavoidable. These costs and payment uncertainties can be avoided in person by using physical currency, but no mechanism exists to make payments over a communications channel without a trusted party. What is needed is an electronic payment system based on cryptographic proof instead of trust, allowing any two willing parties to transact directly with each other without the need for a trusted third party. Transactions that are computationally impractical to reverse would protect sellers from fraud, and routine escrow mechanisms could easily be implemented to protect buyers. In
 this paper, we propose a solution to the double-spending problem using a peer-to-peer distributed timestamp server to generate computational proof of the chronological order of transactions. The system is secure as long as honest nodes collectively control more CPU power than any cooperating group of attacker nodes.  
 
-12. Conclusion  
+Conclusion  
 We have proposed a system for electronic transactions without relying on trust. We started with the usual framework of coins made from digital signatures, which provides strong control of ownership, but is incomplete without a way to prevent double-spending. To solve this, we proposed a peer-to-peer network using proof-of-work to record a public history of transactions that quickly becomes computationally impractical for an attacker to change if honest nodes control a majority of CPU power. The network is robust in its unstructured simplicity. Nodes work all at once with little coordination. They do not need to be identified, since messages are not routed to any particular place and only need to be delivered on a best effort basis. Nodes can leave and rejoin the network at will, accepting the proof-of-work chain as proof of what happened while they were gone. They vote with their CPU power, expressing their acceptance of
 valid blocks by working on extending them and rejecting invalid blocks by refusing to work on them. Any needed rules and incentives can be enforced with this consensus mechanism.  
 
