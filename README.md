@@ -1,11 +1,17 @@
 # Introduction to CryptoCurrencies
 ### Author: JF Giraud
 ### Contacts:  
-https://www.facebook.com/jeanfrancois.giraud.52/  
-https://twitter.com/8289468.  
-linkedin.com/in/jfgiraudengineer.  
-https://sites.google.com/site/8289468canadainc.  
-https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase
+[Facebook](https://www.facebook.com/jeanfrancois.giraud.52/)  
+[Twitter](https://twitter.com/8289468)  
+[LinkedIn](https://linkedin.com/in/jfgiraudengineer)  
+[Github](https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase)  
+[Google Sites](https://sites.google.com/site/8289468canadainc)  
+
+# Donations
+Donations to this project are going directly to the developing team.   
+BTC (Bitcoin): 1PUfrMWUUGPccf3kuUDu7MGHpbddJEqhFo  
+BCH (Bitcoin Cash): qzt7xx2ujd4ukj4yqcyqeeq8rc6d0fazeyapn75syv  
+KIP (kippu on SLP): qz67exr580g5wz0rrsypnfea9jc9w93arqkv7sfxws  
 
 <!-- below is 'commented out' or invisible to the reader unless in edit mode
 # Donations
@@ -21,7 +27,9 @@ ETH (Ethereum):
 
 
 # Table of Contents
-[News changelog](#News-changelog)  
+[Contacts](#contacts)  
+[Donations](#donations)  
+[News Changelog](#News-changelog)  
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
 [Abstract](#Abstract)  
