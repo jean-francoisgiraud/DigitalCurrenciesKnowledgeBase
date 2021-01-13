@@ -97,7 +97,7 @@ THEN seashells become a) a medium of exchange (a currency) and b) a way to store
 With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.). No longer money by the people for the people.  
 
 ## How can money be improved to make society better
-Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity-services instead of debt.  
+Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing.  Money based on value-equity-services instead of debt (decentralised mutual credit).  
 CC built on cryptology and the internet makes money that is trans-national decentralised yet controlled and verifiable with complete traceability and an auditable database of all past transactions.  
 This technology was invented by Satoshi Nakamoto and made public in his 2008 bitcoin white paper.   
 It is a decentralised p2p-replicated public trust-less (crypto verified by 'miners' with trial and error (POW)) blockchain 
@@ -293,7 +293,7 @@ You can contribute to this project by reporting issues or bugs by creating a Git
 
 ## Legal
 Signed contributor agreement - ContributorName
-2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, ContributorName https://github.com/ContributorName.  
+2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit TBD. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, ContributorName https://github.com/ContributorName.  
 
 Example: Signed contributor agreement - ContributorName
 2021-01-12. I hereby agree to the terms of this document "https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase", with SHA-1 checksum commit 0bd5eeb0e117c00b50615cf848dca8706e0cf993. I furthermore declare that I am authorized and able to make this agreement and sign this declaration.  Signed, JF Giraud https://github.com/jean-francoisgiraud.  
