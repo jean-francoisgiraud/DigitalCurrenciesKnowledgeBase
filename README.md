@@ -31,8 +31,7 @@ ETH (Ethereum):
 # Table of Contents
 [Contacts](#contacts)  
 [Support](#support)  
-[News Changelog](#News-changelog)  
-[Definitions and acronyms](#Definitions-and-acronyms)  
+[Definitions and Acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
 [Abstract](#Abstract)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
@@ -58,16 +57,11 @@ ETH (Ethereum):
 [Contributing](#Contributing)  
 [Legal](#Legal)  
 [References](#References)  
-[Appendix](#Appendix)  
+[Appendix](#Appendix)
+[News Changelog](#News-changelog)  
 
-# News Changelog  
-To Do: figure out how to show images, links to images in this folder do not appear automatically.
-20210111 added section on kippu (KIP) and BCH SLP.  
-20210111 added sections after 9 and removed numbering where not necessary. Index is now hyperlinked to sections. 
-2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance. Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
-2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
-# Definitions and acronyms: 
+# Definitions and Acronyms: 
 CC = Crypto Currencies. (Bitcoin Ether LiteCoin Dash Dogecoin etc)  
 DAO = Decentralized Autonomous Organization.  
 ICO = Initial coin offering.
@@ -386,7 +380,10 @@ The Lightning Network reduces Bitcoin transaction times and fees. This is achiev
 [Blockchain vs Tangle: Untangling The IOTA Tangle](https://academy.ivanontech.com/blog/blockchain-vs-tangle-untangling-the-iota-tangle)  
 
 
-
-
-
-
+# Changelog  
+To Do: figure out how to show images, links to images in this folder do not appear automatically.  
+You can send us a pull request to modify this document then the full history of changes will be available to you.  
+20210111 added section on kippu (KIP) and BCH SLP.  
+20210111 added sections after 9 and removed numbering where not necessary. Index is now hyperlinked to sections.  
+2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance. Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
+2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
