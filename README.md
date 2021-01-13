@@ -26,7 +26,7 @@ ETH (Ethereum):
 [News changelog](#News-changelog)  
 [Definitions and acronyms](#Definitions-and-acronyms)  
 [Disclaimer](#Disclaimer)  
-[tldnr](#tldnr)  
+[Abstract](#Abstract)  
 [FAQ Frequently Asked Questions](#FAQ-Frequently-Asked-Questions)  
 [What is money](#What-is-money)  
 [What are the problems with modern money](#What-are-the-problems-with-modern-money)  
@@ -80,7 +80,7 @@ This is not financial advice (there are no warranties of any types). It is an an
 CC is a fast changing environment some information herein may have changed since the latest revision.
 
 
-# tldnr
+# Abstract
 "Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency but that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money. " Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
 The current centralised banking system is based on clearing systems (databases of financial transactions synchronizing their ledgers typically once a day at nignt) between existing financial institutions (ACH  ACSS SWIFT). Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Decentralised money is more democratic (money by and for the people).   
 
