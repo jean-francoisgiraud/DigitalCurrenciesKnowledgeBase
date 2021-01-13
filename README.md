@@ -63,7 +63,7 @@ ETH (Ethereum):
 # Definitions and Acronyms: 
 CC = Crypto Currencies. (Bitcoin Ether LiteCoin Dash Dogecoin etc)  
 DAO = Decentralized Autonomous Organization.  
-ICO = Initial coin offering.
+ICO = Initial coin offering.  
 P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
 tldnr = too long did not read.  
 SLP = Simple Ledger Protocol (similar to ERC-20 but for BCH)  
