@@ -27,7 +27,6 @@ DASH (Dash):
 ETH (Ethereum):  
 -->
 
-
 # Table of Contents
 [Contacts](#contacts)  
 [Support](#support)  
@@ -47,8 +46,9 @@ ETH (Ethereum):
 [Regulatory compliance requirements](#regulatory-compliance-requirements)  
 [kippu](#kippu)  
 [SLP](#SLP)  
+[ERC-20](#erc-20)  
 [SLP vs ERC](#SLP-vs-ERC)  
-[Innovations and disruptions](#Innovations-and-disruptions)  
+[Innovations and Disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
 [Offline Crypto](#Offline)  
@@ -59,7 +59,6 @@ ETH (Ethereum):
 [References](#References)  
 [Appendix](#Appendix)
 [News Changelog](#News-changelog)  
-
 
 # Definitions and Acronyms: 
 CC = Crypto Currencies. (Bitcoin Ether LiteCoin Dash Dogecoin etc)  
@@ -81,10 +80,8 @@ Tokenization: combining public-private key cryptography and a public ledger, any
 This is not financial advice (there are no warranties of any types). It is an analysis of the risks and opportunities of CC.  
 CC is a fast changing environment some information herein may have changed since the latest revision.
 
-
 # Abstract
 "Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency but that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money. " Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED". The current centralised banking system is based on clearing systems (databases of financial transactions synchronizing their ledgers typically once a day at nignt) between existing financial institutions (ACH  ACSS SWIFT). Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Decentralised money is more democratic (money by and for the people).   
-
 
 # FAQ (Frequently Asked Questions)
 
@@ -95,10 +92,8 @@ AND they agree (based on the amount of work required) that 10 fish = 1 chicken.
 AND 1 fish = 1 seashell (for conveniencel).  
 THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
 
-
 ## What are the problems with modern money
 With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.). No longer money by the people for the people.  
-
 
 ## How can money be improved to make society better
 Returning to "money by the people for the people". That means a system of decentralised peer to peer agreement a "language and agreement for money" on what is valuable and can be used as currency for the exchange of goods and services and as money for storing value and investing).  Money based on value-equity-services instead of debt.  
@@ -117,7 +112,6 @@ Modern research into “the wisdom of crowds” provides new insights into how t
 We call this new form of democracy a DAO Democracy."  
 Ref: Merkle, R. (2016) DAOs, Democracy and Governance. Cryonics Magazine, July- August, Vol 37:4, pp 28-40; Alcor, www.alcor.org. https://alcor.org/cryonics/Cryonics2016-4.pdf#page=28 Version 1.9 2 2016-05-31  
 
-
 ## How to obtain CC 
 Charge for your products services in CC, exchange regular money for CC, mine it, get tipped in dogecoin.  
 See appendix for details on exchanges.  
@@ -126,16 +120,13 @@ Beware of scams and hacks and illegal unregulated trades-exchanges and unethical
 ex Mt.Gox (handled 70% of bitcoin exchange in Tokyo in 2013)). Tether (it is pegged to the USD which is illegal (in court following a subpoena in December 2017)). Bitfinex (second biggest hack of stolen bitcoin $72million on 2016.aug.02). Ponzi, pyramid scheme ICO.  
 For example one of the biggest scams in history was [OneCoin](https://en.wikipedia.org/wiki/OneCoin) a 2019 multi-level marketing Ponzi scheme promoted as a cryptocurrency which caused losses of about $4 billion worldwide.  
 
-
 ## Uses 
 Peer to peer value exchanges of products and services (currency), store of value (money and investments).  
-
 
 ## Storage 
 From the safest to least safe.  
 Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
 Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
-
 
 ## What is a CC wallet 
 
@@ -186,7 +177,6 @@ Generating your own private key using a dice and bitadress.org
 How do I make a wallet using dice? What is B6?  
 An important part of creating a Bitcoin wallet is ensuring the random numbers used to create the wallet are truly random. Physical randomness is better than computer generated pseudo-randomness. The easiest way to generate physical randomness is with dice. To create a Bitcoin private key you only need one six sided die which you roll 99 times. Stopping each time to record the value of the die. When recording the values follow these rules: 1=1, 2=2, 3=3, 4=4, 5=5, 6=0. By doing this you are recording the big random number, your private key, in B6 or base 6 format. You can then enter the 99 character base 6 private key into the text field above and click View Details. You will then see the Bitcoin address associated with your private key. You should also make note of your private key in WIF format since it is more widely used. [WIF Wallet Import Format, also known as Wallet Export Format is a way of encoding a private ECDSA key so as to make it easier to copy.A testing suite is available for encoding and decoding of WIF at: http://gobittest.appspot.com/PrivateKey](https://en.bitcoin.it/wiki/Wallet_import_format)
 
-
 Further reading:  
 [Wiki Digital wallet](https://en.wikipedia.org/wiki/Digital_wallet)  
 [Cryptocurrency wallet (cold storage)](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)  
@@ -206,7 +196,6 @@ CC stored on a device are lost if you lose it so you MUST back it up and keep it
 Only install apps you fully trust, malicious apps could be trying to steal your funds.  
 Only keep on your smart phone a small reasonable amount for your routine use and keep your main investments offline.  
 If you have an important amount or CC you should transfer it in cold storage (paper wallet backed up and kept in safe and different location) that is how CC investors keep their funds.  
-
 
 ## How to spend 
 Go to [blockchain.com/explorer](https://www.blockchain.com/explorer)  
@@ -231,11 +220,14 @@ To receive the KIPs you earned.
 - Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
 - Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP.  
 
-
 ## SLP
 [SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
 [Electron Cash - Lightweight Bitcoin Cash client](#https://github.com/Electron-Cash/Electron-Cash).  
 SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
+
+## ERC-20  
+[What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
+ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
 
 ## SLP vs ERC
 SLP vs ERC-20 pros and cons  
@@ -245,11 +237,6 @@ ERC-20 pros: compatible with metamask a crypto wallet for chrome and brave.  Tra
 
 SLP cons: Transactions are slower (10 min/block vs ERC-20 15 sec/block). Require the electron cash wallet.  
 ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. Harder to understand and maintain.  
-
-
-## ERC-20  
-[What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
-ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
 
 ## Innovations and disruptions  
 Disruption is a new buzzword.  
@@ -278,7 +265,6 @@ These are based on [meshnets and wireless radio](https://en.wikipedia.org/wiki/M
 
 ## Cloud based supporting documents  
 [My google document](https://docs.google.com/document/d/1MYqwP2GnMW79AKyrDpBttQ4l4NXbyVyBKYrGOTze8oU)  
-
 
 ## Notes Tips LL Lessons Learned
 Check user reviews ex bestbitcoinexchange.io (etoro BVC cryptogo binance coinbase localbitcoins CEX.io).  
@@ -373,12 +359,10 @@ Lightning Network enables what was previously not possible with trusted financia
 [Wikipedia Lightning_Network](https://en.wikipedia.org/wiki/Lightning_Network)  
 The Lightning Network is a "layer 2" payment protocol that operates on top of a blockchain-based cryptocurrency (like bitcoin). It is intended to enable fast transactions among participating nodes and has been proposed as a solution to the bitcoin scalability problem. It features a peer-to-peer system for making micropayments of cryptocurrency through a network of bidirectional payment channels without delegating custody of funds. Lightning Network implementation also simplifies atomic swaps. Normal use of the Lightning Network consists of opening a payment channel by committing a funding transaction to the relevant base blockchain (layer 1), followed by making any number of Lightning Network transactions that update the tentative distribution of the channel's funds without broadcasting those to the blockchain, optionally followed by closing the payment channel by broadcasting the final version of the settlement transaction to distribute the channel's funds. To perform as intended, Lightning Network required a transaction malleability fix in the layer 1 blockchain, such as Segregated Witness (SegWit) in bitcoin.  
 
-
 [blockstream.com lightning](https://blockstream.com/lightning/)  
 The Lightning Network reduces Bitcoin transaction times and fees. This is achieved by reducing the number of transactions that need to be forever stored on the blockchain. Instead, funds are held in smart contract “payment channels,” and transactions are exchanged outside of the blockchain between transacting users. The final state of the payment channel balance can be broadcast to the Bitcoin network at any time, securely settling the funds on the blockchain.
 
 [Blockchain vs Tangle: Untangling The IOTA Tangle](https://academy.ivanontech.com/blog/blockchain-vs-tangle-untangling-the-iota-tangle)  
-
 
 # Changelog  
 To Do: figure out how to show images, links to images in this folder do not appear automatically.  
