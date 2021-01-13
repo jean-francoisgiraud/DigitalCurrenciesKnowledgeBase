@@ -1,13 +1,11 @@
-# Github Name: DigitalCurrenciesKnowledgeBase
-### Course Name: Introduction to CryptoCurrencies
-### Course Description: Crypto Currencies Course Presentation and Q&A
-### Revision: Version controlled in Github at 
-https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase
+# Introduction to CryptoCurrencies
 ### Author: JF Giraud
 ### Contacts:  
+https://www.facebook.com/jeanfrancois.giraud.52/  
 https://twitter.com/8289468.  
 linkedin.com/in/jfgiraudengineer.  
 https://sites.google.com/site/8289468canadainc.  
+https://github.com/jean-francoisgiraud/DigitalCurrenciesKnowledgeBase
 
 <!-- below is 'commented out' or invisible to the reader unless in edit mode
 # Donations
@@ -60,7 +58,7 @@ To Do: figure out how to show images, links to images in this folder do not appe
 2018 march. Visa, MC, Amex from all Canadian Banks disabled digital currency purchases (tried coinbase and others).  
 
 # Definitions and acronyms: 
-Crypto Currencies = CC. Examples Bitcoin(BTC), Ether(ETH), LiteCoin(LTC), Dash, Dogecoin etc.  
+CC = Crypto Currencies. (Bitcoin Ether LiteCoin Dash Dogecoin etc)  
 DAO = Decentralized Autonomous Organization.  
 ICO = Initial coin offering.
 P2P = Peer To Peer (a replicated network of ledger-database-records the opposite of a centralised database). Ex: BitTorent.  
@@ -81,24 +79,21 @@ CC is a fast changing environment some information herein may have changed since
 
 
 # Abstract
-"Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency but that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money. " Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED".  
-The current centralised banking system is based on clearing systems (databases of financial transactions synchronizing their ledgers typically once a day at nignt) between existing financial institutions (ACH  ACSS SWIFT). Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Decentralised money is more democratic (money by and for the people).   
+"Bitcoin is the most abstract form of money ever created. Bitcoin is not a currency or a payment network it is a protocol and a network centric platform for recording ownership and trust on a peer to peer basis. Saying that bitcoin is a currency is like saying that the internet is email, currency is just the first application. If you have a platform that allows you to record ownership and trust the first type of asset that you are likely to use this ledger for is currency but that is just the begining. Bitcoin is the internet of money and currency is just the first application. It changes the nature of money. " Ref. Andreas M. Antonopoulos speech. "Bitcoin is Punk-Rock, You Cannot Control it WIRED". The current centralised banking system is based on clearing systems (databases of financial transactions synchronizing their ledgers typically once a day at nignt) between existing financial institutions (ACH  ACSS SWIFT). Decentralised alternatives are ((credits currencies) based on (crypto mutual civic community)). Decentralised money is more democratic (money by and for the people).   
 
 
 # FAQ (Frequently Asked Questions)
 
 ## What is money 
-A way to exchange and store value. A social-agreement-contract on what is good and valuable.  
-It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example.  
-IF a group of individuals wants to barter together and they agree (based on the amount of work required) that 10_fish = 1_chicken.  
-AND 1_fish = 1_seashell (for convenience and improved storage 1_fish can be represented by 1_seashell).  
+A way to exchange and store value. A social agreement contract on what is good and valuable. It starts naturally (1) as a decentralised peer-peer agreement-language on what is valuable, for example:  
+IF individuals want to barter  
+AND they agree (based on the amount of work required) that 10 fish = 1 chicken.  
+AND 1 fish = 1 seashell (for conveniencel).  
 THEN seashells become a medium of exchange (currency) and a way to store wealth (money) for future use within that group.  
-(1) Even children often develop their own money for convenience and to exchange things with each other (marbles, candy, cards, etc.)
 
 
 ## What are the problems with modern money
-With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.).  
-No longer money by the people for the people.  
+With time money becomes institutionalised, centralised, debt-based in fiat national currencies (backed only by the power governments give themselves to tax its people) which are controlled by governments banks organisations in their best interest. The natural p2p market economy is corrupted by inflation and interests and other shenanigans. This creates problems such as debts inequalities world-wars terrorism corruptions exploitations from continuously growing third parties (inflation interests fees commissions taxations (for wars armies armaments) etc.). No longer money by the people for the people.  
 
 
 ## How can money be improved to make society better
