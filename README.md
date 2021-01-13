@@ -40,14 +40,14 @@ ETH (Ethereum):
 [How to obtain CC](#How-to-obtain-CC)  
 [Uses](#Uses)  
 [Storage](#Storage)  
-[What is a CC wallet](#What-is-a-CC-wallet)  
-[How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
-[How to spend CC](#How-to-spend-CC)  
 [Regulatory compliance requirements](#regulatory-compliance-requirements)  
 [kippu](#kippu)  
 [SLP](#SLP)  
 [ERC-20](#erc-20)  
-[SLP vs ERC](#SLP-vs-ERC)  
+[SLP vs ERC-20](#SLP-vs-ERC-20)  
+[What is a CC wallet](#What-is-a-CC-wallet)  
+[How to protect a CC wallet](#How-to-protect-a-CC-wallet)  
+[How to spend CC](#How-to-spend-CC)  
 [Innovations and Disruptions](#Innovations-and-disruptions)  
 [DAG Directed Acyclic Graph vs blockchain](#DAG-Directed-Acyclic-Graph-vs-blockchain)  
 [The money flower a taxonomy of money](#The-money-flower-a-taxonomy-of-money)  
@@ -124,9 +124,55 @@ For example one of the biggest scams in history was [OneCoin](https://en.wikiped
 Peer to peer value exchanges of products and services (currency), store of value (money and investments).  
 
 ## Storage 
-From the safest to least safe.  
-Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage (such as fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).  
-Cold electronic wallet, Smartphone wallet, online wallet, exchange.  
+Your CC can be stored, saved invested as follows (from the safest to least safe):    
+Multiple cold paper wallets backed up and stored in several locations and protected from environmental damage(1).    
+Cold electronic wallet.  
+Smartphone wallet.  
+Online wallet.  
+Exchange.  
+
+(1) Such as (fire, water and UV) and printed from a computer never connecting to the internet and with a clean OS with only the paper wallet software installed from the original canonical (ex from the source code on a github which has been tested and peer reviewed for malicious software).
+
+## Regulatory compliance requirements
+It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
+
+In Canada crypto currencies are regulated under provincial securities laws.  
+A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
+This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
+
+## kippu  
+kippus (KIP) are tokens representing real-world assets, products, services. People can earn kippu credits by providing products/services to their community. kippus can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+
+To anyone interested in learning and experimenting with cryptocurrencies. The kippu coin is listed on bitcoin.com here:  
+https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
+
+You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
+
+To receive the KIPs you earned.  
+- Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
+- Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
+- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP. 
+
+The original kippus were developed in Japan as a sectoral(1) civic mutual credit currencies (not crypto) in 1995. [Wikipedia Reference](https://en.wikipedia.org/wiki/Fureai_kippu)  
+(1) A sectoral currency is a form of complementary currency that is restricted to a specific sector it can make people provide the type of services they themselves require or intend to use in the future.  
+
+## SLP
+[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
+[Electron Cash - Lightweight Bitcoin Cash client](#https://github.com/Electron-Cash/Electron-Cash).  
+SLP is used for token implementation and is similar to bitcoin. SLP tokens are valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
+
+## ERC-20  
+[What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
+ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
+
+## SLP vs ERC-20
+SLP vs ERC-20 pros and cons  
+
+SLP pros: Simpler (no need to code in solidity). Transaction fees are much cheaper.  
+ERC-20 pros: compatible with metamask a crypto wallet for chrome and brave.  Transactions are faster (15 sec/block). Smart contracts.  
+
+SLP cons: Transactions are slower (10 min/block vs ERC-20 15 sec/block). Require the electron cash wallet.  
+ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. Harder to understand and maintain.  
 
 ## What is a CC wallet 
 
@@ -182,7 +228,6 @@ Further reading:
 [Cryptocurrency wallet (cold storage)](https://en.wikipedia.org/wiki/Cryptocurrency_wallet)  
 [An example paper printable bitcoin wallet consisting of one bitcoin address for receiving and the corresponding private key for spending.](https://en.wikipedia.org/wiki/Cryptocurrency_wallet#/media/File:A_paper_printable_Bitcoin_wallet_consisting_of_one_bitcoin_address_for_receiving_and_the_corresponding_private_key_for_spending.png)  
 
-
 ## How to protect a CC wallet 
 Print or record the address and private key.  
 Backup the private key.  
@@ -201,47 +246,6 @@ If you have an important amount or CC you should transfer it in cold storage (pa
 Go to [blockchain.com/explorer](https://www.blockchain.com/explorer)  
 In the search tool enter your public Bitcoin Adress to see how much funds you have.  
 Or store your funds on your smartphone wallet (bitcoin litecoin ether dash dogecoin) to be spent later. 
-
-## Regulatory compliance requirements
-It depends on the country where the CC are used. see https://en.wikipedia.org/wiki/Legality_of_bitcoin_by_country_or_territory.  
-
-In Canada crypto currencies are regulated under provincial securities laws.  
-A “security” means “an investment contract” which require: an investment of money in a business which may succeed or fail depending of the quantity and quality of the work of the business managers.  
-This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
-
-## kippu  
-kippus (KIP) are tokens representing real-world assets, products, services. People can earn kippu credits by providing products/services to their community. kippus can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
-
-To anyone interested in learning and experimenting with cryptocurrencies. The kippu coin is listed on bitcoin.com here:  
-https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
-
-You can earn, spend KIP (kippu) by trading, providing, receiving, bartering products or services to your community for which you will earn KIPs. KIPs are derived from bitcoin cash. Data integrity and the prevention of double spending is provided by Proof of Stake.  
-
-To receive the KIPs you earned.  
-- Install the wallet "Electron Cash SLP" from here https://simpleledger.cash/project/electron-cash-slp-edition/  
-- Goto "Receive". Have your customer Scan the QRL code or send the "Receiving address" to your customer.  
-- Your customer will send your KIPs, she/he will paste it in the SLP address from his/her KIP account (from a bitcoin wallet or from his/her bitcoin cash portfolio in https://mint.bitcoin.com/#/portfolio) to pay for your product, service in KIP. 
-
-The original kippus were developed in Japan as a sectoral(1) civic mutual credit currencies (not crypto) in 1995. [Wikipedia Reference](https://en.wikipedia.org/wiki/Fureai_kippu)  
-(1) A sectoral currency is a form of complementary currency that is restricted to a specific sector it can make people provide the type of services they themselves require or intend to use in the future.  
-
-## SLP
-[SLP is the Simple ledger Protocol](https://simpleledger.cash) A simple token system for Bitcoin Cash. Similar to the ERC-20 standard.  
-[Electron Cash - Lightweight Bitcoin Cash client](#https://github.com/Electron-Cash/Electron-Cash).  
-SLP is used for token implementation and is similar to bitcoin. SLP tokens are valuable real-world assets, products, services represented in the SLP blockchain which can be sent and received. SLP tokens (like our own KIP) are issued on the BCH (bitcoin cash) network instead of running on their own blockchain.  
-
-## ERC-20  
-[What is erc20](https://www.investopedia.com/news/what-erc20-and-what-does-it-mean-ethereum/)  
-ERC-20 is a standard used for smart contracts on the Ethereum blockchain. ERC-20 is used for token implementation and is similar to bitcoin. ERC-20 tokens are valuable real-world assets, products, services represented in the ethereum blockchain which can be sent and received. ERC-20 tokens are issued on the Ethereum network instead of running on their own blockchain.  
-
-## SLP vs ERC
-SLP vs ERC-20 pros and cons  
-
-SLP pros: Simpler (no need to code in solidity). Transaction fees are much cheaper.  
-ERC-20 pros: compatible with metamask a crypto wallet for chrome and brave.  Transactions are faster (15 sec/block). Smart contracts.  
-
-SLP cons: Transactions are slower (10 min/block vs ERC-20 15 sec/block). Require the electron cash wallet.  
-ERC-20 cons: More smart contracts functions requires specialists capable of coding in solidity. Harder to understand and maintain.  
 
 ## Innovations and disruptions  
 Disruption is a new buzzword.  
