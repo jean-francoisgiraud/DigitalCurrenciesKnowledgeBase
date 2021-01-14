@@ -145,7 +145,7 @@ A “security” means “an investment contract” which require: an investment
 This means that if you buy and sell them at a profit, you have income (capital gains) that needs to be reported for tax purposes.  
 
 ## kippu  
-kippus (KIP) are tokens representing real-world assets, products, services. People can earn kippu credits by providing products/services to their community. kippus can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
+KIPs are tokens representing real-world assets, products, services. People can earn kip credits by providing products/services to their community. Once the product/service has been received by a customer and verified by an auditor or oracle a kip token is issued to the product/service provider. kips can be sent/received and are issued on the BCH/SLP (bitcoin cash) network instead of running on their own blockchain.  
 
 To anyone interested in learning and experimenting with cryptocurrencies. The kippu coin is listed on bitcoin.com here:  
 https://explorer.bitcoin.com/bch/token/0565328b0ff0062b9782e9056b88bddcea582ecce3e7e4184411111896969935  
