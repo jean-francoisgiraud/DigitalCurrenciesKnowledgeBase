@@ -286,9 +286,9 @@ Transferring CC to national currencies via banks is never fast or easy.
 Beware of scams verify validate companies background and transfer funds to cold wallet.  
 CC Canadian Company can trade with Canadian banks and offer lower fees because they do not pay Visa 1.5%.   
 Only CO and QU do $CDN to crypto.  
-All exchanges take commissions on buy sell exchange.   
+All exchanges take commissions on buy, sell, exchange.   
 cryptocompare.com coinbase 4/5 binance 4.8/5.  
-Quadriga (exits BTC to $CDN are very difficult exchange or banks fault?).  
+Quadriga was an exchanged that lost all its users' funds and went bankrupt after its founder died, (exits from BTC to $CDN were very difficult).  
 Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
 
 ## Contributing
@@ -380,6 +380,7 @@ The Lightning Network reduces Bitcoin transaction times and fees. This is achiev
 # Changelog  
 To Do: figure out how to show images, links to images in this folder do not appear automatically.  
 You can send us a pull request to modify this document then the full history of changes will be available to you.  
+20210411 updated the section on Quadriga.  
 20210111 added section on kippu (KIP) and BCH SLP.  
 20210111 added sections after 9 and removed numbering where not necessary. Index is now hyperlinked to sections.  
 2019 may. Minor editions and added data quality control (Accuracy	Completeness	Consistency	Credibility	Currentness	Accessibility	Compliance. Confidentiality	Efficiency	Precision	Traceability	Understandability	Availability	Portability	Recoverability).  
