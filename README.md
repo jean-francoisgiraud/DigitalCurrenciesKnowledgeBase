@@ -288,8 +288,9 @@ CC Canadian Company can trade with Canadian banks and offer lower fees because t
 Only CO and QU do $CDN to crypto.  
 All exchanges take commissions on buy, sell, exchange.   
 cryptocompare.com coinbase 4/5 binance 4.8/5.  
-Quadriga was an exchanged that lost all its users' funds and went bankrupt after its founder died, (exits from BTC to $CDN were very difficult).  
-Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask).  
+QuadrigaCX was an exchange [a scam, fraud] that lost all its users' funds and went bankrupt after its founder died, (exits from BTC to $CDN were very difficult).  
+Low trade volume (for example in Canada) lead to higher spreads (wider gaps in bid vs ask). https://en.wikipedia.org/wiki/Quadriga_Fintech_Solutions  	
+founded by Gerald Cotten, Michael Patryn. Quadriga likely never invested the funds entrusted to it, according to Chainalysis, a cryptocurrency tracking firm. Either the funds were never received or quickly went missing. "What Quadriga really did with the money that customers gave it to buy Bitcoin remains a mystery," according to Chainalysis.[7]  
 
 ## Contributing
 You can contribute to this project by reporting issues or bugs by creating a Github-Issue. To improve the code you can fork the project in github, create a branch, file a pull request against development.  
